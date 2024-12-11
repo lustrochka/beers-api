@@ -138,23 +138,23 @@ name,abv,ibu,type,country
 "Vormann Vorderbier",5.2,12.2,export,Germany
 "Dahler Urbräu",5.0,11.3,zwickl,Germany
 "Jever Pilsener",4.9,NULL,pilsner,Germany
-"Tyskie Gronie",5.0,NULL,pale_lager
-"Żywiec",5.6,NULL,pale_lager
-"Okocim Premium",5.6,NULL,pale_lager
-"Perła Chmielowa",5.2,NULL,pale_lager
-"Łomża",5.2,NULL,pale_lager
-"Lech Premium",5.0,NULL,pale_lager
-"Warka Strong",7.5,NULL,strong_lager
-"Żywiec Porter",9.5,NULL,porter
-"Książęce Pszeniczne",5.6,NULL,wheat_beer
-"Żywiec Porter Bałtycki",9.5,NULL,Baltic Porter
-"Perła Export",5.5,NULL,pale_lager
-"Książęce Ciemne",5.2,NULL,dark_lager
-"Amber Ale",5.5,NULL,ale
-"Łomża Mocne",7.5,NULL,strong_lager
-"Pils",5.2,NULL,pilsner
-"Wojak Premium",5.0,NULL,pale_lager
-"Warka jasne pełne Classic",5.2,NULL,lager
-"Harnaś",5.8,NULL,lager
-"Kasztelan Jasne Pełne",5.7,12.5,pale
-"Kasztelan Mocne",6.6,14.6,pale
+"Tyskie Gronie",5.0,NULL,pale_lager,Poland
+"Żywiec",5.6,NULL,pale_lager,Poland
+"Okocim Premium",5.6,NULL,pale_lager,Poland
+"Perła Chmielowa",5.2,NULL,pale_lager,Poland
+"Łomża",5.2,NULL,pale_lager,Poland
+"Lech Premium",5.0,NULL,pale_lager,Poland
+"Warka Strong",7.5,NULL,strong_lager,Poland
+"Żywiec Porter",9.5,NULL,porter,Poland
+"Książęce Pszeniczne",5.6,NULL,wheat_beer,Poland
+"Żywiec Porter Bałtycki",9.5,NULL,"Baltic Porter",Poland
+"Perła Export",5.5,NULL,pale_lager,Poland
+"Książęce Ciemne",5.2,NULL,dark_lager,Poland
+"Amber Ale",5.5,NULL,ale,Poland
+"Łomża Mocne",7.5,NULL,strong_lager,Poland
+"Pils",5.2,NULL,pilsner,Poland
+"Wojak Premium",5.0,NULL,pale_lager,Poland
+"Warka jasne pełne Classic",5.2,NULL,lager,Poland
+"Harnaś",5.8,NULL,lager,Poland
+"Kasztelan Jasne Pełne",5.7,12.5,pale,Poland
+"Kasztelan Mocne",6.6,14.6,pale,Poland

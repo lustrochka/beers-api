@@ -7,12 +7,14 @@ const baseUrl = '/api/beers';
 const requestHandler = (req: IncomingMessage, res: ServerResponse) => {
   const { method, url } = req;
 
+  console.log(url);
+
   if (!url) {
     res.writeHead(404, { 'Content-Type': 'text/plain' });
     res.end('Invalid URL');
   } else {
     try {
-      if (url === baseUrl && method === 'GET') {
+      if ((url === baseUrl || url?.startsWith(baseUrl + '?')) && method === 'GET') {
         res.writeHead(200, { 'Content-Type': 'application/json' });
         const message = getBeers(req);
         res.end(JSON.stringify(message));

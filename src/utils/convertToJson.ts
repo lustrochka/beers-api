@@ -18,7 +18,7 @@ async function convertToJson() {
         name,
         abv,
         ibu,
-        type,
+        type: type.replace(/_/g, ' '),
         country,
       };
     });

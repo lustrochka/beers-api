@@ -16,5 +16,5 @@ export function getBeers(req: IncomingMessage) {
   const startIndex = parsedPageSize * (parsedPage - 1);
   const resultBeers = beersArray.slice(startIndex, startIndex + parsedPageSize);
 
-  return { message: JSON.stringify(resultBeers), total: beersArray.length };
+  return { message: resultBeers, total: beersArray.length };
 }
