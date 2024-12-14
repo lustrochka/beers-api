@@ -5,14 +5,12 @@ export async function handler(req: VercelRequest, res: VercelResponse) {
   const { method, url } = req;
 
   if (!url) {
-    res.writeHead(404, { 'Content-Type': 'text/plain' });
-    res.end('Invalid URL');
+    res.status(404).send('Invalid URL');
   } else {
     if (method === 'GET') {
       const id = url.split('/')[3];
       const { code, message, contentType } = getBeer(id);
-      res.writeHead(code, { 'Content-Type': contentType });
-      res.end(message);
+      res.status(code).send(message);
     }
   }
 }
