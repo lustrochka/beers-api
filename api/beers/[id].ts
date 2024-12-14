@@ -2,11 +2,11 @@ import { getBeer } from '../../handlers/getBeer';
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 
 export async function handler(req: VercelRequest, res: VercelResponse) {
-  const { method, url } = req;
+  //const { method, url } = req;
 
-  res.status(200).json({r: req.url});
+  res.status(200).json({r: req});
 
-  if (!url) {
+  /*if (!url) {
     res.status(404).send('Invalid URL');
   } else {
     if (method === 'GET') {
@@ -14,5 +14,5 @@ export async function handler(req: VercelRequest, res: VercelResponse) {
       const { code, message, contentType } = getBeer(id);
       res.status(code).send(message);
     }
-  }
+  }*/
 }
