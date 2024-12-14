@@ -1,9 +1,7 @@
-/*import beers from '../data/data.json';
-import { IncomingMessage } from 'http';
-import { parse } from 'url';*/
+import beers from '../data/data.json';
 import { VercelRequest, VercelResponse } from '@vercel/node';
 
-export function getBeers(req: VercelRequest/*IncomingMessage*/) {
+export function getBeers(req: VercelRequest) {
   /*const { query } = parse(req.url || '', true);
   const { page, pageSize, search } = query;
 
@@ -18,5 +16,5 @@ export function getBeers(req: VercelRequest/*IncomingMessage*/) {
   const resultBeers = beersArray.slice(startIndex, startIndex + parsedPageSize);
 
   return { message: resultBeers, total: beersArray.length };*/
-  return req;
+  return beers;
 }
