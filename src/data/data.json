@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "98633383-6b80-4a05-be9b-ec33d2d3097d",
+    "name": "Golser Premium",
+    "abv": "5.0",
+    "ibu": "11.9",
+    "type": "Vollbier Märzen",
+    "country": "Austria"
+  },
+  {
+    "id": "aa805582-3b90-4bc6-8a20-9edfae17a43c",
+    "name": "Golser Helles",
+    "abv": "5.2",
+    "ibu": "12.2",
+    "type": "Vollbier Lager",
+    "country": "Autria"
+  },
+  {
+    "id": "7cf9d83e-9668-4377-a600-b9346efbf625",
+    "name": "Zwettler Original",
+    "abv": "5.1",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "78757b1a-6c6e-4677-862d-ffe49584885c",
+    "name": "Zwettler Export Lager",
+    "abv": "5.0",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "5e1573cb-8547-4be4-a15e-9b1d35473f02",
+    "name": "Zwettler Pils",
+    "abv": "4.9",
+    "ibu": "11.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "46f04f8c-7394-42a4-bbd0-cf6bfe527566",
+    "name": "Zwettler Zwickl",
+    "abv": "5.5",
+    "ibu": "12.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e56a5671-d991-43d0-a6c7-3fab7f7892c0",
+    "name": "Zwettler Dunkles",
+    "abv": "3.4",
+    "ibu": "11.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "244af362-bd83-4c1f-9311-7f8fc096c792",
+    "name": "Zwettler Kuenringer Festbock",
+    "abv": "6.8",
+    "ibu": "16.2",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "aa990dee-c71b-4d73-854f-25b6c1a5f06e",
+    "name": "Zwettler Saphir (Premium Pils)",
+    "abv": "5.3",
+    "ibu": "12.3",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "616d4bbb-cb20-4684-85b8-799e74a6587a",
+    "name": "Zwettler Black Magic (Austrian Porter)",
+    "abv": "7.4",
+    "ibu": "18.2",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "755e8af6-bf37-49ca-81f2-85603759efc6",
+    "name": "Weitra Helles",
+    "abv": "5.0",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "b05180e0-c2d8-4f7b-93b9-301fce908eb1",
+    "name": "Hadmar Bio",
+    "abv": "5.2",
+    "ibu": "12.5",
+    "type": "bio",
+    "country": "Austria"
+  },
+  {
+    "id": "12d66854-14b0-4462-8ecc-a7738cb6937b",
+    "name": "Schremser Premium",
+    "abv": "5.1",
+    "ibu": "11.9",
+    "type": "Vollbier Lager",
+    "country": "Austria"
+  },
+  {
+    "id": "ac2141da-5ac1-42a5-a1a2-f3f7029b2bda",
+    "name": "Schremser Edelmärzen",
+    "abv": "5.0",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "6fb4782b-d1cb-463f-ba52-9d6b64e5ab15",
+    "name": "Schremser Pils",
+    "abv": "4.5",
+    "ibu": "11.2",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "f00273b1-26ca-4ef4-93d9-9884bafd9c89",
+    "name": "Schremser Doppelmalz",
+    "abv": "4.6",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "43d1c317-158a-4c75-95ba-51150a57a54c",
+    "name": "Schremser Bio Roggen|Schremser Roggen",
+    "abv": "5.2",
+    "ibu": "11.9",
+    "type": "roggenbier"
+  },
+  {
+    "id": "318ce16b-ac5e-4c9b-a20f-947bf6462b1e",
+    "name": "Schremser Bio Naturpark",
+    "abv": "5.1",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e9c24c6c-da3f-4b63-8cf1-8fdf79f15e23",
+    "name": "Schremser Zwickl",
+    "abv": "5.1",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "ce446641-788c-4fe8-8cac-c23db6dc0f96",
+    "name": "Schremser Vienna I.P.",
+    "abv": "4.8",
+    "ibu": "11.3",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "87840c42-95c7-475c-93cc-1877600b8c70",
+    "name": "Haselbräu Helles",
+    "abv": "4.9",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "b1e1e197-63a3-4f8d-b083-f8c362808116",
+    "name": "Medl Bräu Märzen",
+    "abv": "4.9",
+    "ibu": "12.2",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "9ed220e4-409f-42fc-bd93-7e3fbd797e04",
+    "name": "Haselbräu Böhmisches",
+    "abv": "4.9",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "1d049803-840f-4b70-8bc8-2e0cab4593ba",
+    "name": "Haselbräu Bruder - Foreign Extra Stout",
+    "abv": "6.8%",
+    "ibu": "NULL",
+    "type": "starkbier"
+  },
+  {
+    "id": "72801b0f-870b-470d-89b5-ccf5c823eea9",
+    "name": "Haselbräu Brown Ale",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "748c7229-ffdb-49bc-8f05-cc33ba365c00",
+    "name": "Hasel Bock Hell",
+    "abv": "6.8",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "ca69fa80-c03d-4698-8ab2-26c15512c250",
+    "name": "Haselbräu Herbstbier",
+    "abv": "5.7",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "a9b2340e-2d05-428a-9a2c-eba12ede851d",
+    "name": "Haselbräu Adventbier",
+    "abv": "6.2",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "538dbab9-9e22-4c48-a0a2-a46ed73ffd1b",
+    "name": "7 Stern Wiener Helles",
+    "abv": "4.7",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "4c31968e-5b62-41c4-85a1-7d078bbc3670",
+    "name": "7 Stern Märzen",
+    "abv": "5.1",
+    "ibu": "13.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "0bad6a81-dabf-4fab-9335-1d5e3d411c48",
+    "name": "7 Stern Weizen Classic",
+    "abv": "5.2",
+    "ibu": "12.7",
+    "type": "weissbier",
+    "country": "Austria"
+  },
+  {
+    "id": "3fab17e2-d4da-4905-827b-1108d0fb45ca",
+    "name": "7 Stern Prager Dunkles",
+    "abv": "4.5",
+    "ibu": "12.1",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e1b88721-38dc-4f00-b6c2-1c4eeca52886",
+    "name": "Beaver Blue Ribbon (BBR)|BBR: Beaver Blue Ribbon",
+    "abv": "4.9",
+    "ibu": "NULL",
+    "type": "organic lager|zwickl",
+    "country": "Austria"
+  },
+  {
+    "id": "7cf78b75-fd51-41af-a68a-f65f59093994",
+    "name": "Wry P.A.|Wry Pale Ale",
+    "abv": "5.7",
+    "ibu": "NULL",
+    "type": "rye pale ale",
+    "country": "Austria"
+  },
+  {
+    "id": "fce6ad4d-4a4f-4cda-b5c0-9b997c5253f3",
+    "name": "Late Summer IPA",
+    "abv": "6.4",
+    "ibu": "NULL",
+    "type": "american ipa",
+    "country": "Austria"
+  },
+  {
+    "id": "ceea73fa-23ed-439a-b24d-b9551ec36f0d",
+    "name": "State of Nature|State of Nature American Wheat",
+    "abv": "5.3",
+    "ibu": "NULL",
+    "type": "american wheat",
+    "country": "Austria"
+  },
+  {
+    "id": "242f7785-642a-4fbf-bbd3-3cc49ed6453e",
+    "name": "Sunday Morning|Sunday Morning Golden Ale",
+    "abv": "5.5",
+    "ibu": "NULL",
+    "type": "golden ale",
+    "country": "Austria"
+  },
+  {
+    "id": "b607c4ad-c346-46c6-85b1-5e654718b0ab",
+    "name": "Witty Bastard|Witty Bastard Witbier",
+    "abv": "4.1",
+    "ibu": "NULL",
+    "type": "witbier",
+    "country": "Austria"
+  },
+  {
+    "id": "0e888e0a-14ce-44db-b3f2-3eeb75cf6d32",
+    "name": "Charlie|Charlie Brown Ale",
+    "abv": "5.4",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "52cdda96-344b-4b5a-9799-1056954fb0f9",
+    "name": "Brave Lion|Brave Lion Golden Strong Ale",
+    "abv": "8.4",
+    "ibu": "NULL",
+    "type": "belgian-style golden strong ale",
+    "country": "Austria"
+  },
+  {
+    "id": "35dd6782-6a83-4888-b56a-651f32df2f35",
+    "name": "ESP|ESP - English Special Bitter (ESB)",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "cf08e4df-26c3-4e7e-bf95-4c379dd24c74",
+    "name": "Modern Lager",
+    "abv": "5",
+    "ibu": "NULL",
+    "type": "american lager",
+    "country": "Austria"
+  },
+  {
+    "id": "5b4e95f4-c9ef-4ded-98c8-c96cae781ea4",
+    "name": "Cobretti",
+    "abv": "8.5",
+    "ibu": "NULL",
+    "type": "double ipa",
+    "country": "Austria"
+  },
+  {
+    "id": "03c2f46f-da39-4fbc-ad40-59f5a8d4f987",
+    "name": "‹Villacher› Märzen",
+    "abv": "5.0",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e67dabc0-e75f-4444-83b3-4a26a65d7f89",
+    "name": "‹Villacher› Pils",
+    "abv": "4.9",
+    "ibu": "11.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "04908999-f2ab-452c-8179-048b18b5a01a",
+    "name": "‹Villacher› Dunkel",
+    "abv": "4.9",
+    "ibu": "12.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "04654b13-528b-4605-9e5f-89e9eebde589",
+    "name": "‹Villacher› Pur",
+    "abv": "4.0",
+    "ibu": "9.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "737e74b8-5ecc-41e0-8ecf-507089021fd0",
+    "name": "‹Villacher› Edition",
+    "abv": "4.6",
+    "ibu": "11.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "c54ece57-e118-4260-9aa4-709e717f842f",
+    "name": "‹Villacher› Selection Red",
+    "abv": "7.0",
+    "ibu": "15.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "16f7ee24-8b26-463d-ab1b-e2235ea527ba",
+    "name": "‹Villacher› Oktoberbräu",
+    "abv": "5.3",
+    "ibu": "12.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "97260b13-da69-4e92-99a9-74192932a45d",
+    "name": "‹Piestinger› Lager",
+    "abv": "5.0",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "803c6b42-f229-4d33-93b9-eead6147acb3",
+    "name": "‹Hirter› Privat Pils",
+    "abv": "5.2",
+    "ibu": "12.3",
+    "type": "pils",
+    "country": "Austria"
+  },
+  {
+    "id": "a1ac1fbe-6860-49d4-a129-b744138e2bf3",
+    "name": "‹Hirter› Märzen",
+    "abv": "5.0",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "623bf52d-a559-4306-9fae-e6588e45a52d",
+    "name": "‹Hirter› Morchl",
+    "abv": "5.0",
+    "ibu": "12.8",
+    "type": "dunkles",
+    "country": "Austria"
+  },
+  {
+    "id": "c9d2c304-80d7-49ff-91c6-cf6d00720d7c",
+    "name": "‹Hirter› Biobier",
+    "abv": "4.8",
+    "ibu": "11.6",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "d5ef14f9-9576-4518-82ae-9837c39e0b91",
+    "name": "‹Hirter› 1270",
+    "abv": "4.9",
+    "ibu": "11.9",
+    "type": "vollbier|bernstein",
+    "country": "Austria"
+  },
+  {
+    "id": "c06c7f47-aee4-4a2d-853b-10ec0e9d3d12",
+    "name": "‹Schleppe› Märzen",
+    "abv": "5.0",
+    "ibu": "11.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "7fba9331-43ab-4ce6-bc4f-290565b1fe31",
+    "name": "‹Loncium› Helles",
+    "abv": "4.9",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "6edc287c-11eb-4e06-a5d4-695118e90039",
+    "name": "‹Loncium› Austrian Amber Lager",
+    "abv": "5.5",
+    "ibu": "12.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "87eedaf6-32e2-40eb-b5f6-16a26782770f",
+    "name": "Baumgartner Märzen",
+    "abv": "5.1",
+    "ibu": "12.2",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "81a1eafc-3b5c-41bb-a295-de655f66e1e6",
+    "name": "Baumgartner Doppelmalz",
+    "abv": "5.1",
+    "ibu": "13.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "148592fb-79b2-4ea7-8b76-f71e15762150",
+    "name": "Baumgartner Pils",
+    "abv": "4.8",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "1d6d8563-dde0-4208-aeee-d6e5e8945579",
+    "name": "Baumgartner Export",
+    "abv": "5.7",
+    "ibu": "13.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e81a3dcf-7cd2-435a-9f5e-3e28cd09a8f1",
+    "name": "Baunti 1609|Baunti 1609 Lager",
+    "abv": "5.0",
+    "ibu": "12.0",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "519507c4-474b-435c-9070-a2584bf267bb",
+    "name": "Baumgartner Zwickl",
+    "abv": "5.1",
+    "ibu": "12.2",
+    "type": "naturtrueb|unfiltriert",
+    "country": "Austria"
+  },
+  {
+    "id": "4945288a-2c78-4f31-a500-1b9492ce9e3f",
+    "name": "Baumgartner Urbier",
+    "abv": "5.4",
+    "ibu": "12.7",
+    "type": "altmuenchner dunkel",
+    "country": "Austria"
+  },
+  {
+    "id": "d20841ae-1a35-4d60-a3c5-91c22a29290b",
+    "name": "Rieder Weißbierbock|Weißbier Bock",
+    "abv": "6.5",
+    "ibu": "16.5",
+    "type": "weizenbock",
+    "country": "Austria"
+  },
+  {
+    "id": "feb5def3-64a7-4198-a11c-34edc5748eb4",
+    "name": "Rieder 1908 Naturtrüb|Rieder Naturtrüb",
+    "abv": "5.2",
+    "ibu": "12.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "aad308d4-caed-4808-983a-eaef887b4f48",
+    "name": "Rieder Urecht",
+    "abv": "5.0",
+    "ibu": "12.2",
+    "type": "vollbier",
+    "country": "Austria"
+  },
+  {
+    "id": "ef5a4568-9f3a-4f83-bbf5-2576dc3a5e1a",
+    "name": "Rieder Dunkel",
+    "abv": "5.0",
+    "ibu": "12",
+    "type": "dunkles vollbier",
+    "country": "Austria"
+  },
+  {
+    "id": "c72b51e1-6618-4d04-a3cb-84fc1ad343a1",
+    "name": "Rieder Bügerl",
+    "abv": "5.0",
+    "ibu": "12.9",
+    "type": "vollbier",
+    "country": "Austria"
+  },
+  {
+    "id": "e0dd44aa-8c72-4815-a471-dd2dc3e8f382",
+    "name": "Innviertler Stadtbräu",
+    "abv": "5.2",
+    "ibu": "12.2",
+    "type": "zwickl|vollbier",
+    "country": "Austria"
+  },
+  {
+    "id": "2f574a50-2dd8-4edc-80c1-9977360322ac",
+    "name": "Innviertler Landbier",
+    "abv": "5.2",
+    "ibu": "12.8",
+    "type": "vollbier",
+    "country": "Austria"
+  },
+  {
+    "id": "05f8b8e1-7489-435c-a9e1-1814db13309a",
+    "name": "Revital Aspach Hausbräu",
+    "abv": "4.9",
+    "ibu": "12",
+    "type": "maerzen",
+    "country": "Austria"
+  },
+  {
+    "id": "69529b79-92f1-478f-a0ea-9173e5561702",
+    "name": "Trumer Pils",
+    "abv": "4.9",
+    "ibu": "11.5",
+    "type": "lager|pils",
+    "country": "Austria"
+  },
+  {
+    "id": "72b6401d-011a-41b6-a1bd-a6fda0292e49",
+    "name": "Trumer Imperial Pils",
+    "abv": "6.8",
+    "ibu": "16.2",
+    "type": "bockbier",
+    "country": "Austria"
+  },
+  {
+    "id": "83d87b52-b15b-4421-9292-ebf5f2fa0ee4",
+    "name": "Trumer Märzen",
+    "abv": "4.8",
+    "ibu": "11.8",
+    "type": "lager|maerzen.Austria"
+  },
+  {
+    "id": "b156195a-1bca-453d-9243-6a4f51a8e26c",
+    "name": "Austrian Amber Ale",
+    "abv": "5.6",
+    "ibu": "12.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "d18cd772-a38f-408c-b948-6f55719f181e",
+    "name": "Jakobsgold",
+    "abv": "4.9",
+    "ibu": "11.8",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "ce2b667c-f09e-4530-8045-c7c19d32a4fc",
+    "name": "Edelguss",
+    "abv": "4.9",
+    "ibu": "11.9",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "c5b18967-27dd-49a3-9580-cc1f9f2fc5cb",
+    "name": "Urban Keller's Steinbier",
+    "abv": "5.6",
+    "ibu": "12.7",
+    "type": "steinbier",
+    "country": "Austria"
+  },
+  {
+    "id": "1f5afa2b-fd81-4457-9795-3c6d8c8c96e1",
+    "name": "Zillertal Märzen",
+    "abv": "5.1",
+    "ibu": "12.0",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "783df9f6-3063-40c9-a1d9-4d4bed75e4a3",
+    "name": "Zillertal Pils",
+    "abv": "4.9",
+    "ibu": "11.0",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "e8e96db2-34a5-4869-bce4-488e94a5e6eb",
+    "name": "Zillertal Schwarzes",
+    "abv": "5.2",
+    "ibu": "12.0",
+    "type": "schwarzbier"
+  },
+  {
+    "id": "f0976975-7a53-40d9-9c01-99f8fd2de1ed",
+    "name": "Huber Bräu St. Johanner Engerl",
+    "abv": "3.7",
+    "ibu": "9.4",
+    "type": "schankbier"
+  },
+  {
+    "id": "07967b68-13ed-4df7-9873-462f867489db",
+    "name": "Huber Bräu Meisterpils",
+    "abv": "4.9",
+    "ibu": "11.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "dd283fbd-efe2-4a30-846f-b966c0ba9233",
+    "name": "Huber Bräu Spezial",
+    "abv": "5.4",
+    "ibu": "12.7",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "af83d727-0183-475b-847c-6d29c5334983",
+    "name": "Huber Bräu Augustinus",
+    "abv": "5.0",
+    "ibu": "11.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "48f52208-f6c8-4e60-9350-db5a58627fc4",
+    "name": "Huber Bräu Dunkel",
+    "abv": "5.0",
+    "ibu": "11.6",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "36c18cc6-f9fc-4783-8964-7fccef21d888",
+    "name": "Huber Bräu Tiroler Hefeweizen Hell",
+    "abv": "5.2",
+    "ibu": "12.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "8120a225-8250-4076-bd4c-63894db514e4",
+    "name": "Huber Bräu Tiroler Hefeweizen Dunkel",
+    "abv": "5.2",
+    "ibu": "12.5",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "27a206e9-5594-4858-9e66-6e21c13e47d4",
+    "name": "Huber Bräu Leichte Weisse",
+    "abv": "3.5",
+    "ibu": "8.3",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "114a352f-a879-4d54-92b6-ebacaa14e1cf",
+    "name": "Huber Bräu Bock",
+    "abv": "7.0",
+    "ibu": "16.4",
+    "type": "",
+    "country": "Austria"
+  },
+  {
+    "id": "18281e1d-593a-49a6-a663-6eee8f7e27eb",
+    "name": "Světlé Výčepní",
+    "abv": "3.8",
+    "ibu": "10",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "d88a6e23-fcb8-497d-a8c8-c4f824f05e10",
+    "name": "Světlé Výčepní",
+    "abv": "4.2",
+    "ibu": "11",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "a1865128-6e1d-4e0e-9968-2e3cb929806e",
+    "name": "Světlý Ležák",
+    "abv": "5.0",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "30c6772d-8cc1-43dd-8bb4-7aab34f20679",
+    "name": "Tmavé Výčepní",
+    "abv": "3.5",
+    "ibu": "10",
+    "type": "dark lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "7f94d342-7df1-471d-af21-7ce2f90b6e5b",
+    "name": "Rebel Originál Premium",
+    "abv": "4.8",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "9bd4c16a-4414-455f-be69-0b8b6cbf3e1e",
+    "name": "Rebel Černý [Dark]",
+    "abv": "4.7",
+    "ibu": "12",
+    "type": "dark lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "e83bbbcf-3ed0-4149-b055-8eaf5014e15f",
+    "name": "Czech Rebel Beer",
+    "abv": "4.4",
+    "ibu": "pale_lager",
+    "type": "Czech Republic"
+  },
+  {
+    "id": "6764023d-e943-42dc-a589-1f2b496caeee",
+    "name": "Rebel Tradiční",
+    "abv": "3.9",
+    "ibu": "10",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "6c44adca-6418-42fe-9a77-5f3159cbec6e",
+    "name": "Holba Classic",
+    "abv": "4.2",
+    "ibu": "10",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "4ef63589-3874-48cd-87ce-71543c9e8018",
+    "name": "Holba Šerák",
+    "abv": "4.7",
+    "ibu": "11",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "159b5299-f77f-4360-b108-c81fa7820b3c",
+    "name": "Holba Premium",
+    "abv": "5.2",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "8d1afb37-6c2e-448b-b8cf-a991165c8400",
+    "name": "Černá Hora (Světlý) Ležák",
+    "abv": "4.8",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "e989171f-5bf2-4df2-bf80-47839dbec7d8",
+    "name": "Zlatopramen Světlé Výčepní",
+    "abv": "4.1",
+    "ibu": "10",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "91c14ef5-54c6-42f5-842e-48fa2b33c1f4",
+    "name": "Zlatopramen 11°",
+    "abv": "4.7",
+    "ibu": "11",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "1915bf3f-2d66-4b98-9063-9b6c758c5a93",
+    "name": "Bernard Sváteční Ležák",
+    "abv": "5.0",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "8d288f86-f78c-498a-9ca7-1e4f06333bff",
+    "name": "Bernard Jantarový Ležák [Amber Lager]",
+    "abv": "4.7",
+    "ibu": "NULLamber_lager",
+    "type": "Czech Republic"
+  },
+  {
+    "id": "3d789ae9-791f-4815-9e3a-082c1ec05df4",
+    "name": "Bernard Černý Ležák [Dark Lager]",
+    "abv": "5.1",
+    "ibu": "NULLdark_lager",
+    "type": "Czech Republic"
+  },
+  {
+    "id": "cdb0f875-8db5-45ce-b598-8dfc7ea2824e",
+    "name": "Bernard Světlý Výčepní",
+    "abv": "3.8",
+    "ibu": "10",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "ea5dd4f9-06aa-4d6f-95d4-49e67de922e7",
+    "name": "Bernard Свětlý Ležák",
+    "abv": "4.5",
+    "ibu": "11",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "f22cc2d1-5081-4a51-ab28-ef1d06764e20",
+    "name": "Bernard Свětlý Ležак",
+    "abv": "4.7",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "f74f5247-6f0c-471d-b4bd-f0a9e3271794",
+    "name": "Bernard Speciální Ležák 14% OX",
+    "abv": "5.8",
+    "ibu": "14",
+    "type": "pale lager",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "2a31397c-fb50-4235-9ca4-2679fe3558a8",
+    "name": "Chodovar Zlatý Ležák",
+    "abv": "4.5",
+    "ibu": "11",
+    "type": "pale lager",
+    "country": ""
+  },
+  {
+    "id": "96de7c25-6277-45bf-9fe6-2b14d265dfff",
+    "name": "Chodovar Pašerák Světlé",
+    "abv": "4",
+    "ibu": "NULL",
+    "type": "",
+    "country": ""
+  },
+  {
+    "id": "23df290e-6daa-4527-8ecc-75f61acd9866",
+    "name": "Chodovar Prezident Premium",
+    "abv": "5",
+    "ibu": "12",
+    "type": "pale lager",
+    "country": ""
+  },
+  {
+    "id": "5099c927-438f-4c79-8f24-770cface04e8",
+    "name": "Chodovar Zámecký Ležák Special",
+    "abv": "5.1",
+    "ibu": "13",
+    "type": "pale lager",
+    "country": ""
+  },
+  {
+    "id": "9a088442-0a2d-449c-8f94-8cba6fb43055",
+    "name": "Chodovar Černá Desítka [Dark Lager]",
+    "abv": "4.2",
+    "ibu": "NULL",
+    "type": "dark lager",
+    "country": ""
+  },
+  {
+    "id": "aa03ca17-b5b3-44b8-8ab8-a75ae1aaacdf",
+    "name": "Guinness|Guinness Draught",
+    "abv": "4.2",
+    "ibu": "NULL",
+    "type": "irish dry stout|dry stout|stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "89aeacb7-4fd4-4f17-b4c3-f8a1c7ef8354",
+    "name": "Guinness Foreign Extra",
+    "abv": "7.5",
+    "ibu": "NULL",
+    "type": "stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "ab845ee5-2c2f-4606-8817-a3efeb2eb03a",
+    "name": "Kilkenny",
+    "abv": "4.3",
+    "ibu": "NULL",
+    "type": "irish red ale|red ale|ale",
+    "country": "Ireland"
+  },
+  {
+    "id": "55616d72-1373-4647-96c7-6954264a550a",
+    "name": "Smithwick's",
+    "abv": "4.5",
+    "ibu": "NULL",
+    "type": "irish red ale|red ale|ale",
+    "country": "Ireland"
+  },
+  {
+    "id": "4f0754d5-c60b-4f8a-9844-d57d9eb80685",
+    "name": "Murphy's Irish Red|Murphy's Red",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "irish red ale|red ale|ale",
+    "country": "Ireland"
+  },
+  {
+    "id": "75fadb83-fe62-4280-af0e-225dac5133a8",
+    "name": "Murphy's Irish Stout",
+    "abv": "4.3",
+    "ibu": "NULL",
+    "type": "irish dry stout|dry stout|stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "e01bdbb9-bd6d-4300-b653-8d422cfdd2fb",
+    "name": "O'Hara's Irish Red",
+    "abv": "4.3",
+    "ibu": "NULL",
+    "type": "red ale",
+    "country": "Ireland"
+  },
+  {
+    "id": "d48062f6-727e-485b-b870-8820d05bff1b",
+    "name": "O'Hara's Irish Stout",
+    "abv": "4.3",
+    "ibu": "NULL",
+    "type": "stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "8653bfdf-2bb1-4798-981b-d4b0968b293b",
+    "name": "Galway Hooker Irish Pale Ale",
+    "abv": "4.4",
+    "ibu": "NULL",
+    "type": "ale",
+    "country": "Ireland"
+  },
+  {
+    "id": "6a188238-cea6-44dc-a717-c30c5b78337a",
+    "name": "Porterhouse Oyster Stout",
+    "abv": "4.8",
+    "ibu": "NULL",
+    "type": "stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "0ed7707a-e329-454b-b6db-d9a5a396fcfb",
+    "name": "Wrasslers XXXX Stout",
+    "abv": "5",
+    "ibu": "NULL",
+    "type": "stout",
+    "country": "Ireland"
+  },
+  {
+    "id": "9f15bd50-8e4e-4621-91e2-5d4e2c85622e",
+    "name": "Paulaner Hefe-Weißbier Naturtrüb",
+    "abv": "5.5",
+    "ibu": "12.5",
+    "type": "weisse",
+    "country": "Germany"
+  },
+  {
+    "id": "2d25ae1f-0416-4aca-bd9e-e1167c3f784d",
+    "name": "Vormann Pils",
+    "abv": "5.0",
+    "ibu": "11.3",
+    "type": "pils",
+    "country": "Germany"
+  },
+  {
+    "id": "6b446dff-2090-4504-a874-575def60c727",
+    "name": "Alt aus Dahl",
+    "abv": "5.0",
+    "ibu": "11.6",
+    "type": "alt",
+    "country": "Germany"
+  },
+  {
+    "id": "f731c257-a004-420f-a9d7-1faa99c5198e",
+    "name": "Vormann Malz",
+    "abv": "1.5",
+    "ibu": "11.5",
+    "type": "malt",
+    "country": "Germany"
+  },
+  {
+    "id": "d1422515-7f48-4130-a43f-fa1de607dedb",
+    "name": "Sauerländer Weizenbier",
+    "abv": "5.0",
+    "ibu": "11.7",
+    "type": "weisse dunkel",
+    "country": "Germany"
+  },
+  {
+    "id": "48fc3511-ff57-477a-8743-9e604892fe47",
+    "name": "Vormann Doppelbock",
+    "abv": "8.0",
+    "ibu": "19.3",
+    "type": "doppelbock",
+    "country": "Germany"
+  },
+  {
+    "id": "46b86a2d-655e-41a8-9833-616230ca0f53",
+    "name": "Vormann Vorderbier",
+    "abv": "5.2",
+    "ibu": "12.2",
+    "type": "export",
+    "country": "Germany"
+  },
+  {
+    "id": "f0711f01-8447-4474-a314-464f40345d75",
+    "name": "Dahler Urbräu",
+    "abv": "5.0",
+    "ibu": "11.3",
+    "type": "zwickl",
+    "country": "Germany"
+  },
+  {
+    "id": "8e29ed4e-aeed-4094-9689-03b4d415f2d9",
+    "name": "Jever Pilsener",
+    "abv": "4.9",
+    "ibu": "NULL",
+    "type": "pilsner",
+    "country": "Germany"
+  },
+  {
+    "id": "35851c46-3fc0-4615-a043-2e8dec52bd30",
+    "name": "Tyskie Gronie",
+    "abv": "5.0",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "889d0a97-3fe1-46ca-a029-2be77739a29c",
+    "name": "Żywiec",
+    "abv": "5.6",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "349b028e-f4e8-4664-8dd9-f96ef8415751",
+    "name": "Okocim Premium",
+    "abv": "5.6",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "cf557e54-3d3b-400f-88c6-b6c2ef23560a",
+    "name": "Perła Chmielowa",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "2da6fd20-6871-4528-8749-8afe45f4aa7a",
+    "name": "Łomża",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "e3d28c45-e48d-41ea-9fd3-e8947121ed97",
+    "name": "Lech Premium",
+    "abv": "5.0",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "94c79d11-9dd7-4e04-9a4e-62ec916355a8",
+    "name": "Warka Strong",
+    "abv": "7.5",
+    "ibu": "NULL",
+    "type": "strong lager",
+    "country": "Poland"
+  },
+  {
+    "id": "bc2e6f37-71dc-4df1-82a6-5363760ec2ee",
+    "name": "Żywiec Porter",
+    "abv": "9.5",
+    "ibu": "NULL",
+    "type": "porter",
+    "country": "Poland"
+  },
+  {
+    "id": "f84dc18e-b222-4646-b97a-88095f27b79c",
+    "name": "Książęce Pszeniczne",
+    "abv": "5.6",
+    "ibu": "NULL",
+    "type": "wheat beer",
+    "country": "Poland"
+  },
+  {
+    "id": "9b21c068-195d-49d1-99eb-2b11c1ccb61b",
+    "name": "Żywiec Porter Bałtycki",
+    "abv": "9.5",
+    "ibu": "NULL",
+    "type": "Baltic Porter",
+    "country": "Poland"
+  },
+  {
+    "id": "ef1ab172-1e6c-4044-8f8f-daa5617eccd6",
+    "name": "Perła Export",
+    "abv": "5.5",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "76b80eee-6796-4cbd-a289-f558ca1a3b92",
+    "name": "Książęce Ciemne",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "dark lager",
+    "country": "Poland"
+  },
+  {
+    "id": "56ff0964-eeff-49eb-ae2c-5e9752ba345b",
+    "name": "Amber Ale",
+    "abv": "5.5",
+    "ibu": "NULL",
+    "type": "ale",
+    "country": "Poland"
+  },
+  {
+    "id": "9ab31ca3-0340-4bf8-9c0d-8e6a6aa2a9fc",
+    "name": "Łomża Mocne",
+    "abv": "7.5",
+    "ibu": "NULL",
+    "type": "strong lager",
+    "country": "Poland"
+  },
+  {
+    "id": "c99d01d8-89ec-4d78-b68c-1923808775fa",
+    "name": "Pils",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "pilsner",
+    "country": "Poland"
+  },
+  {
+    "id": "f651e05d-4973-4ce9-b27e-5af95f2d79ab",
+    "name": "Wojak Premium",
+    "abv": "5.0",
+    "ibu": "NULL",
+    "type": "pale lager",
+    "country": "Poland"
+  },
+  {
+    "id": "ec3f4980-d5db-4598-9dd8-f095553311a6",
+    "name": "Warka jasne pełne Classic",
+    "abv": "5.2",
+    "ibu": "NULL",
+    "type": "lager",
+    "country": "Poland"
+  },
+  {
+    "id": "cb1a7d44-3e8e-4e86-9566-648658e0a648",
+    "name": "Harnaś",
+    "abv": "5.8",
+    "ibu": "NULL",
+    "type": "lager",
+    "country": "Poland"
+  },
+  {
+    "id": "0935c13d-d5a3-4866-8f88-b13f19848503",
+    "name": "Kasztelan Jasne Pełne",
+    "abv": "5.7",
+    "ibu": "12.5",
+    "type": "pale",
+    "country": "Poland"
+  },
+  {
+    "id": "1fe9b7bd-b1e7-4754-a90a-99a225254cc5",
+    "name": "Kasztelan Mocne",
+    "abv": "6.6",
+    "ibu": "14.6",
+    "type": "pale",
+    "country": "Poland"
+  }
+]

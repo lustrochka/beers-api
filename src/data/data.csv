@@ -1,0 +1,160 @@
+name,abv,ibu,type,country
+"Golser Premium",5.0,11.9,Vollbier Märzen,Austria
+"Golser Helles",5.2,12.2,Vollbier Lager,Autria
+"Zwettler Original",5.1,11.9,"",Austria
+"Zwettler Export Lager",5.0,11.8,"",Austria
+"Zwettler Pils",4.9,11.5,"",Austria
+"Zwettler Zwickl",5.5,12.5,"",Austria
+"Zwettler Dunkles",3.4,11.5,"",Austria
+"Zwettler Kuenringer Festbock",6.8,16.2,"",Austria
+"Zwettler Saphir (Premium Pils)",5.3,12.3,"",Austria
+"Zwettler Black Magic (Austrian Porter)",7.4,18.2,"",Austria
+"Weitra Helles",5.0,11.8,"",Austria
+"Hadmar Bio",5.2,12.5,bio,Austria
+"Schremser Premium",5.1,11.9,"Vollbier Lager",Austria
+"Schremser Edelmärzen",5.0,11.9,"",Austria
+"Schremser Pils",4.5,11.2,"",Austria
+"Schremser Doppelmalz",4.6,11.9,"",Austria
+"Schremser Bio Roggen|Schremser Roggen",5.2,11.9,roggenbier
+"Schremser Bio Naturpark",5.1,11.9,"",Austria
+"Schremser Zwickl",5.1,11.9,"",Austria
+"Schremser Vienna I.P.",4.8,11.3,"",Austria
+"Haselbräu Helles",4.9,11.8,"",Austria
+"Medl Bräu Märzen",4.9,12.2,"",Austria
+"Haselbräu Böhmisches",4.9,11.8,"",Austria
+"Haselbräu Bruder - Foreign Extra Stout",6.8%,NULL,starkbier
+"Haselbräu Brown Ale",5.2,NULL,"",Austria
+"Hasel Bock Hell",6.8,NULL,"",Austria
+"Haselbräu Herbstbier",5.7,NULL,"",Austria
+"Haselbräu Adventbier",6.2,NULL,"",Austria
+"7 Stern Wiener Helles",4.7,11.8,"",Austria
+"7 Stern Märzen",5.1,13.5,"",Austria
+"7 Stern Weizen Classic",5.2,12.7,weissbier,Austria
+"7 Stern Prager Dunkles",4.5,12.1,"",Austria
+"Beaver Blue Ribbon (BBR)|BBR: Beaver Blue Ribbon",4.9,NULL,organic_lager|zwickl,Austria
+"Wry P.A.|Wry Pale Ale",5.7,NULL,"rye pale ale",Austria
+"Late Summer IPA",6.4,NULL,"american ipa",Austria
+"State of Nature|State of Nature American Wheat",5.3,NULL,"american wheat",Austria
+"Sunday Morning|Sunday Morning Golden Ale",5.5,NULL,"golden ale",Austria
+"Witty Bastard|Witty Bastard Witbier",4.1,NULL,witbier,Austria
+"Charlie|Charlie Brown Ale",5.4,NULL,"",Austria
+"Brave Lion|Brave Lion Golden Strong Ale",8.4,NULL,"belgian-style golden strong ale",Austria
+"ESP|ESP - English Special Bitter (ESB)",5.2,NULL,"",Austria
+"Modern Lager",5,NULL,"american lager",Austria
+"Cobretti",8.5,NULL,"double ipa",Austria
+"‹Villacher› Märzen",5.0,11.8,"",Austria
+"‹Villacher› Pils",4.9,11.7,"",Austria
+"‹Villacher› Dunkel",4.9,12.8,"",Austria
+"‹Villacher› Pur",4.0,9.5,"",Austria
+"‹Villacher› Edition",4.6,11.7,"",Austria
+"‹Villacher› Selection Red",7.0,15.8,"",Austria
+"‹Villacher› Oktoberbräu",5.3,12.9,"",Austria
+"‹Piestinger› Lager",5.0,11.8,"",Austria
+"‹Hirter› Privat Pils",5.2,12.3,pils,Austria
+"‹Hirter› Märzen",5.0,11.8,"",Austria
+"‹Hirter› Morchl",5.0,12.8,dunkles,Austria
+"‹Hirter› Biobier",4.8,11.6,"",Austria
+"‹Hirter› 1270",4.9,11.9,vollbier|bernstein,Austria
+"‹Schleppe› Märzen",5.0,11.7,"",Austria
+"‹Loncium› Helles",4.9,11.8,"",Austria
+"‹Loncium› Austrian Amber Lager",5.5,12.7,"",Austria
+"Baumgartner Märzen",5.1,12.2,"",Austria
+"Baumgartner Doppelmalz",5.1,13.7,"",Austria
+"Baumgartner Pils",4.8,11.8,"",Austria
+"Baumgartner Export",5.7,13.5,"",Austria
+"Baunti 1609|Baunti 1609 Lager",5.0,12.0,"",Austria
+"Baumgartner Zwickl",5.1,12.2,"naturtrueb|unfiltriert",Austria
+"Baumgartner Urbier",5.4,12.7,"altmuenchner dunkel",Austria
+"Rieder Weißbierbock|Weißbier Bock",6.5,16.5,weizenbock,Austria
+"Rieder 1908 Naturtrüb|Rieder Naturtrüb",5.2,12.9,"",Austria
+"Rieder Urecht",5.0,12.2,vollbier,Austria
+"Rieder Dunkel",5.0,12,"dunkles vollbier",Austria
+"Rieder Bügerl",5.0,12.9,vollbier,Austria
+"Innviertler Stadtbräu",5.2,12.2,zwickl|vollbier ,Austria
+"Innviertler Landbier",5.2,12.8,vollbier,Austria
+"Revital Aspach Hausbräu",4.9,12,maerzen,Austria
+"Trumer Pils",4.9,11.5,lager|pils,Austria
+"Trumer Imperial Pils",6.8,16.2,bockbier,Austria
+"Trumer Märzen",4.8,11.8,lager|maerzen.Austria
+"Austrian Amber Ale",5.6,12.8,"",Austria
+"Jakobsgold",4.9,11.8,"",Austria
+"Edelguss",4.9,11.9,"",Austria
+"Urban Keller's Steinbier",5.6,12.7,steinbier,Austria
+"Zillertal Märzen",5.1,12.0,"",Austria
+"Zillertal Pils",4.9,11.0,"",Austria
+"Zillertal Schwarzes",5.2,12.0,schwarzbier
+"Huber Bräu St. Johanner Engerl",3.7,9.4,schankbier
+"Huber Bräu Meisterpils",4.9,11.5,"",Austria
+"Huber Bräu Spezial",5.4,12.7,"",Austria
+"Huber Bräu Augustinus",5.0,11.5,"",Austria
+"Huber Bräu Dunkel",5.0,11.6,"",Austria
+"Huber Bräu Tiroler Hefeweizen Hell",5.2,12.5,"",Austria
+"Huber Bräu Tiroler Hefeweizen Dunkel",5.2,12.5,"",Austria
+"Huber Bräu Leichte Weisse",3.5,8.3,"",Austria
+"Huber Bräu Bock",7.0,16.4,"",Austria
+"Světlé Výčepní",3.8,10,pale_lager,"Czech Republic"
+"Světlé Výčepní",4.2,11,pale_lager,"Czech Republic"
+"Světlý Ležák",5.0,12,pale_lager,"Czech Republic"
+"Tmavé Výčepní",3.5,10,dark_lager,"Czech Republic"
+"Rebel Originál Premium",4.8,12,pale_lager,"Czech Republic"
+"Rebel Černý [Dark]",4.7,12,dark_lager,"Czech Republic"
+"Czech Rebel Beer",4.4,pale_lager,"Czech Republic"
+"Rebel Tradiční",3.9,10,pale_lager,"Czech Republic"
+"Holba Classic",4.2,10,pale_lager,"Czech Republic"
+"Holba Šerák",4.7,11,pale_lager,"Czech Republic"
+"Holba Premium",5.2,12,pale_lager,"Czech Republic"
+"Černá Hora (Světlý) Ležák",4.8,12,pale_lager,"Czech Republic"
+"Zlatopramen Světlé Výčepní",4.1,10,pale_lager,"Czech Republic"
+"Zlatopramen 11°",4.7,11,pale_lager,"Czech Republic"
+"Bernard Sváteční Ležák",5.0,12,pale_lager,"Czech Republic"
+"Bernard Jantarový Ležák [Amber Lager]",4.7,NULLamber_lager,"Czech Republic"
+"Bernard Černý Ležák [Dark Lager]",5.1,NULLdark_lager,"Czech Republic"
+"Bernard Světlý Výčepní",3.8,10,pale_lager,"Czech Republic"
+"Bernard Свětlý Ležák",4.5,11,pale_lager,"Czech Republic"
+"Bernard Свětlý Ležак",4.7,12,pale_lager,"Czech Republic"
+"Bernard Speciální Ležák 14% OX",5.8,14,pale_lager,"Czech Republic"
+"Chodovar Zlatý Ležák",4.5,11,pale_lager,,"Czech Republic"
+"Chodovar Pašerák Světlé",4,NULL,"",,"Czech Republic"
+"Chodovar Prezident Premium",5,12,pale_lager,,"Czech Republic"
+"Chodovar Zámecký Ležák Special",5.1,13,pale_lager,,"Czech Republic"
+"Chodovar Černá Desítka [Dark Lager]",4.2,NULL,dark_lager,,"Czech Republic"
+"Guinness|Guinness Draught",4.2,NULL,irish_dry_stout|dry_stout|stout,Ireland
+"Guinness Foreign Extra",7.5,NULL,stout,Ireland
+"Kilkenny",4.3,NULL,irish_red_ale|red_ale|ale,Ireland
+"Smithwick's",4.5,NULL,irish_red_ale|red_ale|ale,Ireland
+"Murphy's Irish Red|Murphy's Red",5.2,NULL,irish_red_ale|red_ale|ale,Ireland
+"Murphy's Irish Stout",4.3,NULL,irish_dry_stout|dry_stout|stout,Ireland
+"O'Hara's Irish Red",4.3,NULL,red_ale,Ireland
+"O'Hara's Irish Stout",4.3,NULL,stout,Ireland
+"Galway Hooker Irish Pale Ale",4.4,NULL,ale,Ireland
+"Porterhouse Oyster Stout",4.8,NULL,stout,Ireland
+"Wrasslers XXXX Stout",5,NULL,stout,Ireland
+"Paulaner Hefe-Weißbier Naturtrüb",5.5,12.5,weisse,Germany
+"Vormann Pils",5.0,11.3,pils,Germany
+"Alt aus Dahl",5.0,11.6,alt,Germany
+"Vormann Malz",1.5,11.5,malt,Germany
+"Sauerländer Weizenbier",5.0,11.7,weisse_dunkel,Germany
+"Vormann Doppelbock",8.0,19.3,doppelbock,Germany
+"Vormann Vorderbier",5.2,12.2,export,Germany
+"Dahler Urbräu",5.0,11.3,zwickl,Germany
+"Jever Pilsener",4.9,NULL,pilsner,Germany
+"Tyskie Gronie",5.0,NULL,pale_lager,Poland
+"Żywiec",5.6,NULL,pale_lager,Poland
+"Okocim Premium",5.6,NULL,pale_lager,Poland
+"Perła Chmielowa",5.2,NULL,pale_lager,Poland
+"Łomża",5.2,NULL,pale_lager,Poland
+"Lech Premium",5.0,NULL,pale_lager,Poland
+"Warka Strong",7.5,NULL,strong_lager,Poland
+"Żywiec Porter",9.5,NULL,porter,Poland
+"Książęce Pszeniczne",5.6,NULL,wheat_beer,Poland
+"Żywiec Porter Bałtycki",9.5,NULL,"Baltic Porter",Poland
+"Perła Export",5.5,NULL,pale_lager,Poland
+"Książęce Ciemne",5.2,NULL,dark_lager,Poland
+"Amber Ale",5.5,NULL,ale,Poland
+"Łomża Mocne",7.5,NULL,strong_lager,Poland
+"Pils",5.2,NULL,pilsner,Poland
+"Wojak Premium",5.0,NULL,pale_lager,Poland
+"Warka jasne pełne Classic",5.2,NULL,lager,Poland
+"Harnaś",5.8,NULL,lager,Poland
+"Kasztelan Jasne Pełne",5.7,12.5,pale,Poland
+"Kasztelan Mocne",6.6,14.6,pale,Poland
