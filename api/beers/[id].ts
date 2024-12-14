@@ -4,7 +4,8 @@ import type { VercelRequest, VercelResponse } from '@vercel/node'
 export async function handler(req: VercelRequest, res: VercelResponse) {
   //const { method, url } = req;
 
-  res.status(200).json({r: req.query});
+  const { id } = req.query;
+  res.status(200).json({r: id});
 
   /*if (!url) {
     res.status(404).send('Invalid URL');
