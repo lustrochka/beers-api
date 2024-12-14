@@ -1,7 +1,11 @@
 # brewski-api
+
 ## Description
+
 This is a demonstration API and is intended for educational purposes
+
 ## Endpoints
+
 - **/api/beers**: Fetch all beers.
 - - **Query Parameters**:
   - `page`: Page number for pagination (default is 1).
