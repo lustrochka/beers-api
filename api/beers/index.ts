@@ -1,4 +1,4 @@
-import { getBeers } from '../../handlers/getBeers';
+//import { getBeers } from '../../handlers/getBeers';
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 
 const products = [
