@@ -1,6 +1,7 @@
 import beers from '../data/data.json';
-import { IncomingMessage } from 'http';
-import { parse } from 'url';
+/*import { IncomingMessage } from 'http';
+import { parse } from 'url';*/
+import { VercelRequest, VercelResponse } from '@vercel/node';
 
 const products = [
     { id: 1, name: 'Laptop', price: 1000 },
@@ -8,7 +9,7 @@ const products = [
     { id: 3, name: 'Tablet', price: 300 },
 ];
 
-export function getBeers(req: IncomingMessage) {
+export function getBeers(req: VercelRequest/*IncomingMessage*/) {
   /*const { query } = parse(req.url || '', true);
   const { page, pageSize, search } = query;
 
