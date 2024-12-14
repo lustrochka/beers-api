@@ -2,8 +2,8 @@ import csv from 'csvtojson';
 import fs from 'fs/promises';
 import { v4 } from 'uuid';
 
-const csvPath = 'src/data/data.csv';
-const jsonPath = 'src/data/data.json';
+const csvPath = 'data/data.csv';
+const jsonPath = 'data/data.json';
 
 async function convertToJson() {
   try {
