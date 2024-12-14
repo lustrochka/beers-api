@@ -8,8 +8,9 @@ export async function handler(res: VercelResponse, req: VercelRequest) {
     { id: 3, name: 'Tablet', price: 300 },
 ];
   if (req.method === 'GET') {
-    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.status(200).json(products);
+    /*res.writeHead(200, { 'Content-Type': 'application/json' });
     const message = getBeers(req);
-    res.end(JSON.stringify(message));
+    res.end(JSON.stringify(message));*/
   }
 }
