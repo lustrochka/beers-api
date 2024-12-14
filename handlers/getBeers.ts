@@ -2,8 +2,7 @@ import beers from '../data/data.json';
 import { VercelRequest, VercelResponse } from '@vercel/node';
 
 export function getBeers(req: VercelRequest) {
-  /*const { query } = parse(req.url || '', true);
-  const { page, pageSize, search } = query;
+  const { page, pageSize, search } = req.query;
 
   const parsedPage = Number(page) || 1;
   const parsedPageSize = Number(pageSize) || 10;
@@ -15,6 +14,6 @@ export function getBeers(req: VercelRequest) {
   const startIndex = parsedPageSize * (parsedPage - 1);
   const resultBeers = beersArray.slice(startIndex, startIndex + parsedPageSize);
 
-  return { message: resultBeers, total: beersArray.length };*/
+  return { message: resultBeers, total: beersArray.length };
   return beers;
 }
