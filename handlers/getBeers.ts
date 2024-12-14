@@ -1,5 +1,5 @@
-import beers from '../data/data.json';
-/*import { IncomingMessage } from 'http';
+/*import beers from '../data/data.json';
+import { IncomingMessage } from 'http';
 import { parse } from 'url';*/
 import { VercelRequest, VercelResponse } from '@vercel/node';
 
