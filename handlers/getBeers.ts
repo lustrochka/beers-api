@@ -3,12 +3,6 @@ import { IncomingMessage } from 'http';
 import { parse } from 'url';*/
 import { VercelRequest, VercelResponse } from '@vercel/node';
 
-const products = [
-    { id: 1, name: 'Laptop', price: 1000 },
-    { id: 2, name: 'Smartphone', price: 500 },
-    { id: 3, name: 'Tablet', price: 300 },
-];
-
 export function getBeers(req: VercelRequest/*IncomingMessage*/) {
   /*const { query } = parse(req.url || '', true);
   const { page, pageSize, search } = query;
@@ -24,5 +18,6 @@ export function getBeers(req: VercelRequest/*IncomingMessage*/) {
   const resultBeers = beersArray.slice(startIndex, startIndex + parsedPageSize);
 
   return { message: resultBeers, total: beersArray.length };*/
+    console.log(req);
   return products;
 }
