@@ -14,6 +14,6 @@ export function getBeers(req: VercelRequest) {
   const startIndex = parsedPageSize * (parsedPage - 1);
   const resultBeers = beersArray.slice(startIndex, startIndex + parsedPageSize);
 
-  return { message: resultBeers, total: beersArray.length };
+  return { data: resultBeers, total: beersArray.length };
   return beers;
 }
