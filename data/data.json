@@ -5,7 +5,8 @@
     "abv": "5.0",
     "ibu": "11.9",
     "type": "Vollbier Märzen",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Golser Premium is a premium lager brewed by Golser Brauerei, an Austrian brewery known for its high-quality beers that reflect the traditional styles of Austrian brewing. This lager is crafted with careful attention to detail, offering a crisp and refreshing drinking experience that showcases the purity of Austrian ingredients and the craftsmanship of the brewery. Golser Premium is a versatile beer suitable for a variety of occasions, whether enjoyed on its own or paired with food. Golser Premium is a well-balanced lager that delivers a crisp, clean taste with a blend of malt sweetness and subtle hop bitterness. It’s a versatile beer that can be enjoyed on a variety of occasions, from casual gatherings to more formal settings. Whether you’re looking for a refreshing session beer or a pairing for your favorite dish, Golser Premium offers an easy-drinking, high-quality choice."
   },
   {
     "id": "aa805582-3b90-4bc6-8a20-9edfae17a43c",
@@ -13,7 +14,8 @@
     "abv": "5.2",
     "ibu": "12.2",
     "type": "Vollbier Lager",
-    "country": "Autria"
+    "country": "Autria",
+    "description": "Golser Helles is a traditional German-style Helles lager brewed by Golser Brauerei, an Austrian brewery that combines modern brewing techniques with traditional craftsmanship. This beer style is characterized by its clean, malt-forward profile with a smooth, balanced taste. Golser Helles embodies the essence of Bavarian lager traditions, offering a refreshing and easy-drinking experience that is perfect for a variety of occasions. Golser Helles is a classic German-style Helles lager that embodies the crisp, malt-forward profile typical of this traditional beer style. It’s a versatile choice that can be enjoyed on its own or paired with a variety of foods. Whether you’re looking for a refreshing beer for a warm day or a companion to hearty dishes, Golser Helles delivers a satisfying and easy-drinking experience."
   },
   {
     "id": "7cf9d83e-9668-4377-a600-b9346efbf625",
@@ -21,7 +23,8 @@
     "abv": "5.1",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Original is a classic lager beer brewed by Brauerei Zwettl, an Austrian brewery renowned for its traditional brewing practices and commitment to quality. This beer is a fine example of a Viennese lager, characterized by its smooth maltiness, balanced bitterness, and clean finish. Zwettler Original offers a straightforward yet satisfying drinking experience that highlights the essence of Austrian lager traditions. Zwettler Original is a classic Viennese lager that offers a harmonious balance of malt sweetness and hop bitterness, making it a versatile beer for any occasion. It’s an easy-drinking choice that suits both casual and more formal settings, whether enjoyed on its own or paired with food. Zwettler Original delivers a traditional lager experience with a modern twist, embodying the best of Austrian brewing traditions."
   },
   {
     "id": "78757b1a-6c6e-4677-862d-ffe49584885c",
@@ -29,7 +32,8 @@
     "abv": "5.0",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Export Lager is a traditional lager beer brewed by Brauerei Zwettl in Zwettl, Austria. Known for its dedication to high-quality ingredients and classic brewing techniques, Zwettler Export Lager is a testament to the rich brewing traditions of the region. This beer is characterized by its smooth maltiness, balanced bitterness, and crisp, clean finish. It offers a straightforward yet satisfying drinking experience that showcases the essence of Austrian lager craftsmanship. Zwettler Export Lager is a traditional Austrian lager that delivers a harmonious balance of malt sweetness and hop bitterness. It’s a versatile beer that can be enjoyed on its own or paired with a variety of foods. Whether you’re looking for a refreshing session beer or a companion for hearty dishes, Zwettler Export Lager offers a classic lager experience that celebrates Austrian brewing traditions."
   },
   {
     "id": "5e1573cb-8547-4be4-a15e-9b1d35473f02",
@@ -37,7 +41,8 @@
     "abv": "4.9",
     "ibu": "11.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Pils is a classic Pilsner-style lager brewed by Brauerei Zwettl in Zwettl, Austria. This beer is known for its crisp, clean profile with a distinct hop bitterness that provides a refreshing drinking experience. Zwettler Pils captures the essence of traditional Pilsner brewing, combining the bright malt character with a pronounced hop aroma and bitterness. It’s a straightforward yet satisfying choice for those who appreciate well-crafted European lagers. Zwettler Pils is a traditional Pilsner-style lager that delivers a harmonious balance of malt sweetness and hop bitterness. It’s a versatile beer that can be enjoyed on its own or paired with a variety of foods. Whether you’re looking for a refreshing session beer or a companion for grilled meats, Zwettler Pils offers a classic lager experience that celebrates Austrian brewing traditions."
   },
   {
     "id": "46f04f8c-7394-42a4-bbd0-cf6bfe527566",
@@ -45,7 +50,8 @@
     "abv": "5.5",
     "ibu": "12.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Zwickl is an unfiltered lager beer brewed by Brauerei Zwettl in Zwettl, Austria. This style of beer, known as Zwickl or Kellerbier, is characterized by its hazy appearance, rich malt flavors, and a more robust taste profile compared to traditional lagers. Zwettler Zwickl offers a unique drinking experience, combining the best elements of traditional lager brewing with the added complexity and character of an unfiltered beer. Zwettler Zwickl is an unfiltered lager that offers a rich and complex flavor profile, combining the best elements of traditional lager brewing with a modern twist. It’s an excellent choice for those who enjoy beers with depth and character. Whether enjoyed on its own or paired with food, Zwettler Zwickl delivers a satisfying and memorable drinking experience."
   },
   {
     "id": "e56a5671-d991-43d0-a6c7-3fab7f7892c0",
@@ -53,7 +59,8 @@
     "abv": "3.4",
     "ibu": "11.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Dunkles is a classic dark lager brewed by Brauerei Zwettl in Zwettl, Austria. This beer style, known as Dunkles, is characterized by its rich malt flavors, deep amber to dark brown color, and a well-balanced sweetness that is complemented by a moderate hop bitterness. Zwettler Dunkles offers a full-bodied and satisfying drinking experience that highlights the traditional brewing methods of the region. Zwettler Dunkles is a dark lager that delivers a rich malt character with a balanced sweetness and subtle roastiness. It’s an excellent choice for those who appreciate deep, full-bodied beers with traditional Austrian roots. Whether enjoyed on its own or with food, Zwettler Dunkles offers a satisfying drinking experience that showcases the brewery’s commitment to quality and craftsmanship."
   },
   {
     "id": "244af362-bd83-4c1f-9311-7f8fc096c792",
@@ -61,7 +68,8 @@
     "abv": "6.8",
     "ibu": "16.2",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Kuenringer Festbock is a strong, traditional Bock beer brewed by Brauerei Zwettl in Zwettl, Austria. This style of beer is typically rich and malty, with a higher alcohol content than standard lagers, making it perfect for festive occasions and colder weather. Zwettler Kuenringer Festbock showcases the brewery’s commitment to quality and its heritage of brewing strong, flavorful lagers that are both satisfying and warming. Zwettler Kuenringer Festbock is a traditional Bock beer that combines rich malt flavors with a warming character, making it an ideal choice for colder months and festive occasions. This beer offers a satisfying and memorable drinking experience, showcasing the brewery’s commitment to quality and craftsmanship. Whether enjoyed on its own or with food, Zwettler Kuenringer Festbock delivers a full-bodied, malty profile that is perfect for those who appreciate traditional Austrian brewing traditions."
   },
   {
     "id": "aa990dee-c71b-4d73-854f-25b6c1a5f06e",
@@ -69,7 +77,8 @@
     "abv": "5.3",
     "ibu": "12.3",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Saphir (Premium Pils) is a classic Pilsner-style beer brewed by Brauerei Zwettl in Zwettl, Austria. This beer style is known for its crisp, clean taste, refreshing bitterness, and use of noble hops, which contribute floral and herbal characteristics. Zwettler Saphir is crafted with quality ingredients and traditional brewing methods, making it a perfect choice for those who appreciate a well-balanced, easy-drinking lager. Zwettler Saphir (Premium Pils) is a well-crafted Pilsner that embodies the characteristics of a classic lager with a modern twist. It offers a balanced combination of hop bitterness and malt sweetness, making it a versatile beer for various drinking occasions. Whether enjoyed on a warm day or with a light meal, Zwettler Saphir delivers a refreshing and satisfying experience."
   },
   {
     "id": "616d4bbb-cb20-4684-85b8-799e74a6587a",
@@ -77,7 +86,8 @@
     "abv": "7.4",
     "ibu": "18.2",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zwettler Black Magic (Austrian Porter) is a dark, robust porter-style beer brewed by Brauerei Zwettl in Zwettl, Austria. Porters are known for their rich malt flavors, dark color, and balanced sweetness that often includes notes of roasted malt, chocolate, and coffee. Zwettler Black Magic captures these characteristics and adds a touch of Austrian brewing tradition to create a satisfying, full-bodied beer that is perfect for colder weather and special occasions. Zwettler Black Magic (Austrian Porter) is a dark, robust porter that delivers rich malt flavors with a balanced sweetness and a touch of roasted bitterness. It’s a perfect choice for those who enjoy deep, full-bodied beers with a strong malt character. Whether enjoyed on its own or paired with food, Zwettler Black Magic offers a satisfying drinking experience that captures the essence of traditional Austrian brewing."
   },
   {
     "id": "755e8af6-bf37-49ca-81f2-85603759efc6",
@@ -85,7 +95,8 @@
     "abv": "5.0",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Weitra Helles is a classic Helles-style lager brewed by the Weitra Brewery, one of the oldest breweries in Austria. Helles, meaning 'bright' or 'pale' in German, is a traditional lager known for its smooth, clean taste, pale golden color, and balanced malt and hop character. Weitra Helles is crafted to showcase the brewery’s commitment to quality and its heritage of brewing timeless, easy-drinking lagers. Weitra Helles is a well-crafted Helles lager that combines a balanced malt profile with a moderate hop bitterness, making it an excellent choice for those who appreciate traditional Austrian brewing styles. Whether enjoyed on a warm day or with a light meal, Weitra Helles delivers a refreshing and satisfying drinking experience."
   },
   {
     "id": "b05180e0-c2d8-4f7b-93b9-301fce908eb1",
@@ -93,7 +104,8 @@
     "abv": "5.2",
     "ibu": "12.5",
     "type": "bio",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hadmar Bio is a craft beer brewed by the Hadmar Brewery, known for its commitment to organic ingredients and traditional brewing methods. The 'Bio' designation indicates that this beer is brewed using organic ingredients, which includes malt, hops, water, and sometimes yeast, ensuring a purer and more natural taste profile. Hadmar Bio offers a genuine Austrian beer experience with a focus on quality, sustainability, and local craftsmanship. Hadmar Bio is a well-crafted organic lager that embodies the spirit of traditional Austrian brewing with a focus on sustainable practices. The organic ingredients give the beer a natural sweetness and depth of flavor that are well-balanced by the hop bitterness. Whether enjoyed on its own or paired with food, Hadmar Bio delivers a refreshing and satisfying drinking experience that highlights the purity and quality of Austrian craft beer."
   },
   {
     "id": "12d66854-14b0-4462-8ecc-a7738cb6937b",
@@ -101,7 +113,8 @@
     "abv": "5.1",
     "ibu": "11.9",
     "type": "Vollbier Lager",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Premium is a premium quality lager from the Schremser Brewery, one of Austria’s oldest and most respected breweries. Known for its commitment to traditional brewing methods and high-quality ingredients, Schremser Premium offers a balanced, easy-drinking beer that reflects Austrian brewing traditions. It’s a versatile lager that can be enjoyed in various settings, whether with a meal or simply on its own. Schremser Premium is a classic Austrian premium lager that delivers a balanced, easy-drinking beer experience. It combines a light malt sweetness with moderate hop bitterness, creating a well-rounded flavor profile that is both refreshing and satisfying. Whether enjoyed on a warm day or with a meal, Schremser Premium offers a genuine taste of Austrian brewing heritage."
   },
   {
     "id": "ac2141da-5ac1-42a5-a1a2-f3f7029b2bda",
@@ -109,7 +122,8 @@
     "abv": "5.0",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Edelmärzen is a traditional Märzen beer brewed by the Schremser Brewery, one of Austria’s oldest and most respected breweries. Märzen beers are known for their rich malt character and balanced flavor profile, making them perfect for autumn and festive celebrations. Schremser Edelmärzen exemplifies these qualities with its smooth, well-integrated flavors and a clean, crisp finish. Schremser Edelmärzen is a classic Märzen beer that delivers rich malt flavors with a balanced hop bitterness, embodying the best of Austrian brewing traditions. Whether enjoyed during autumn festivals or with a hearty meal, Schremser Edelmärzen offers a satisfying drinking experience that showcases the beer’s depth and complexity."
   },
   {
     "id": "6fb4782b-d1cb-463f-ba52-9d6b64e5ab15",
@@ -117,7 +131,8 @@
     "abv": "4.5",
     "ibu": "11.2",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Pils is a classic pilsner brewed by the Schremser Brewery, a well-respected name in Austrian brewing. Known for its crisp, refreshing character and balanced flavor profile, Schremser Pils exemplifies the traditional European pilsner style. It’s a versatile beer that pairs well with a variety of foods and occasions, making it a reliable choice for both casual drinking and more formal settings. Schremser Pils is a well-crafted pilsner that delivers a balanced combination of malt sweetness and hop bitterness. It embodies the traditional European pilsner style with a crisp, clean taste and a refreshing finish. Whether enjoyed on a hot day or with a meal, Schremser Pils offers a delightful drinking experience that showcases the best of Austrian brewing heritage."
   },
   {
     "id": "f00273b1-26ca-4ef4-93d9-9884bafd9c89",
@@ -125,14 +140,17 @@
     "abv": "4.6",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Doppelmalz is a rich and malty lager brewed by Schremser Brauerei, an Austrian brewery renowned for its dedication to traditional brewing methods and quality ingredients. This beer is a Doppelmalz, which translates to 'double malt', indicating a higher malt content and a more pronounced malt character compared to standard lagers. Schremser Doppelmalz offers a deep, robust flavor profile with a focus on malt sweetness, making it a satisfying choice for those who appreciate a fuller-bodied beer. Schremser Doppelmalz is a well-crafted Doppelmalz lager that delivers a rich and complex malt character with notes of caramel, toffee, and dark fruit. It’s an ideal choice for those who enjoy beers with a fuller body and deep flavors. Whether enjoyed as a sipping beer on a cold evening or paired with hearty dishes, Schremser Doppelmalz provides a satisfying and flavorful experience."
   },
   {
     "id": "43d1c317-158a-4c75-95ba-51150a57a54c",
     "name": "Schremser Bio Roggen|Schremser Roggen",
     "abv": "5.2",
     "ibu": "11.9",
-    "type": "roggenbier"
+    "type": "roggenbier",
+    "country": "Austria",
+    "description": "Schremser Bio Roggen (or Schremser Roggen) is an organic rye beer brewed by Schremser Brauerei, an Austrian brewery known for its commitment to quality and traditional brewing practices. This beer is crafted with organic rye malt, combining the rich flavors of rye with the purity of organic ingredients. Schremser Bio Roggen offers a unique taste experience with a smooth mouthfeel and a hint of spiciness, typical of rye beers. Schremser Bio Roggen is a well-crafted rye beer that brings together the earthy spiciness of rye malt with the purity of organic ingredients. It offers a distinctive and flavorful drinking experience, making it an excellent choice for those who enjoy beers with a bit of character and complexity. Whether enjoyed on its own or paired with food, Schremser Bio Roggen is a great option for those looking to explore new tastes in craft beer."
   },
   {
     "id": "318ce16b-ac5e-4c9b-a20f-947bf6462b1e",
@@ -140,7 +158,8 @@
     "abv": "5.1",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Bio Naturpark is an organic beer brewed by Schremser Brauerei, a traditional Austrian brewery known for its commitment to quality and environmentally friendly practices. This beer is part of the 'Bio' (organic) line, emphasizing natural ingredients and sustainable brewing methods. Schremser Bio Naturpark is crafted with organic malts, hops, and water, resulting in a clean, flavorful beer that reflects the purity of nature and traditional brewing techniques. Schremser Bio Naturpark is an organic lager that embodies the purity of nature and the brewery’s commitment to sustainability. With its balanced malt sweetness, mild hop bitterness, and clean finish, it’s an ideal choice for those who appreciate beers made with organic ingredients and traditional brewing methods. This beer offers a refreshing taste that pairs well with a variety of foods, making it a versatile option for many occasions."
   },
   {
     "id": "e9c24c6c-da3f-4b63-8cf1-8fdf79f15e23",
@@ -148,7 +167,8 @@
     "abv": "5.1",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Zwickl is a traditional unfiltered lager brewed by Schremser Brauerei, an Austrian brewery known for its dedication to producing quality, classic-style beers. This Zwickl is a representative of the unfiltered lager style, which is known for its fresh, natural character, and smooth mouthfeel. It embodies the characteristics of traditional Czech lagers but with an Austrian twist, offering a beer that is easy-drinking, flavorful, and full of natural goodness. Schremser Zwickl is a well-crafted unfiltered lager that captures the essence of traditional Czech brewing while adding a touch of Austrian character. With its balanced malt profile, mild hop bitterness, and natural, unfiltered appeal, it’s an easy-to-drink beer that is perfect for enjoying on a warm day or paired with food at a gathering. This Zwickl offers a taste of the brewery’s commitment to quality and tradition in every sip."
   },
   {
     "id": "ce446641-788c-4fe8-8cac-c23db6dc0f96",
@@ -156,7 +176,8 @@
     "abv": "4.8",
     "ibu": "11.3",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schremser Vienna I.P. is a craft beer brewed by Schremser Brauerei, a traditional Austrian brewery known for its rich history and commitment to quality brewing. This Vienna I.P. (India Pale) is a variation of the classic Vienna lager style with a twist—integrating the bold hop character typically associated with IPAs. It combines the malty sweetness of a Vienna lager with the assertive hop bitterness and aromatic qualities of an IPA, offering a balanced yet distinctive beer experience. Schremser Vienna I.P. offers a delightful fusion of the Vienna lager and IPA styles, making it an interesting choice for those who enjoy both traditional and contemporary beer profiles. With its rich malt foundation and bold hop character, this beer is versatile and pairs well with a variety of foods, making it an excellent choice for a wide range of occasions. Whether you’re seeking a flavorful beer for a special meal or just a satisfying drink, Schremser Vienna I.P. delivers."
   },
   {
     "id": "87840c42-95c7-475c-93cc-1877600b8c70",
@@ -164,7 +185,8 @@
     "abv": "4.9",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Helles is a classic Bavarian-style lager brewed by the Haselbräu brewery. This Helles beer is known for its light and refreshing profile, clean malt character, and subtle hop bitterness. It embodies the traditional elements of Bavarian lager brewing, making it an ideal choice for those who enjoy a sessionable beer with a balanced taste. Haselbräu Helles is a well-executed example of the Bavarian Helles lager style. With its balanced malt character, mild hop bitterness, and refreshing finish, it’s an excellent choice for any occasion where you want a clean, drinkable beer that pairs well with a variety of foods. Whether you’re enjoying it at a festival, a backyard barbecue, or a casual gathering, Haselbräu Helles delivers on both flavor and refreshment."
   },
   {
     "id": "b1e1e197-63a3-4f8d-b083-f8c362808116",
@@ -172,7 +194,8 @@
     "abv": "4.9",
     "ibu": "12.2",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Medl Bräu Märzen is a traditional Märzen beer from the Medl Bräu brewery, a style known for its deep malt flavors, smooth texture, and drinkability. Märzen, which translates to 'March beer,' traditionally refers to a German lager brewed in March and matured over the summer, ready to be enjoyed during the autumn and Oktoberfest celebrations. Medl Bräu Märzen combines these classic characteristics to deliver a rich, full-bodied beer experience. Medl Bräu Märzen is a well-crafted Märzen lager that encapsulates the classic characteristics of this German style. With its rich malt profile, balanced hop bitterness, and smooth finish, it’s a perfect beer for celebrating Oktoberfest or any occasion that calls for a hearty, flavorful brew. Whether enjoyed at a festive gathering or a quiet evening, this Märzen delivers a taste of tradition with each sip."
   },
   {
     "id": "9ed220e4-409f-42fc-bd93-7e3fbd797e04",
@@ -180,14 +203,17 @@
     "abv": "4.9",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Böhmisches is a traditional Czech-style lager brewed by the Haselbräu brewery. Known for its clean, crisp profile and balanced malt and hop characteristics, this beer embodies the classic Bohemian lager style. It offers a refreshing drinking experience that is perfect for enjoying with a variety of foods or on its own. Haselbräu Böhmisches is a well-crafted Bohemian-style lager that showcases the classic elements of Czech brewing tradition. With its clean, crisp taste, balanced malt and hop profile, and easy-drinking nature, it’s a perfect choice for those who enjoy a refreshing lager that pairs well with a variety of foods and occasions. This beer embodies the essence of Czech brewing heritage and offers a taste of tradition with each sip."
   },
   {
     "id": "1d049803-840f-4b70-8bc8-2e0cab4593ba",
     "name": "Haselbräu Bruder - Foreign Extra Stout",
     "abv": "6.8%",
     "ibu": "NULL",
-    "type": "starkbier"
+    "type": "starkbier",
+    "country":"Austria",
+    "description": "Haselbräu Bruder - Foreign Extra Stout is a robust and full-bodied stout from the Haselbräu brewery, crafted in the Foreign Extra Stout tradition. Known for its deep flavors, rich malt profile, and higher alcohol content, this stout offers a warming, complex drinking experience. It’s perfect for those who enjoy bold, characterful beers that stand up to hearty foods and cold weather. Haselbräu Bruder - Foreign Extra Stout is a bold and characterful stout that brings together rich roasted malt flavors, dark fruit nuances, and a warming alcohol presence. This beer is perfect for those who appreciate a hearty, full-bodied stout that offers depth and complexity. It’s an ideal choice for winter evenings or any occasion where you want a beer that stands up to hearty foods and delivers a satisfying, warming experience."
   },
   {
     "id": "72801b0f-870b-470d-89b5-ccf5c823eea9",
@@ -195,7 +221,8 @@
     "abv": "5.2",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Brown Ale is a traditional and approachable brown ale from the Haselbräu brewery. Known for its balanced malt profile, it offers a rich, smooth drinking experience with hints of caramel, nuts, and a touch of fruitiness. This beer is perfect for those who enjoy a classic ale that marries sweet and roasted flavors in a sessionable format. Haselbräu Brown Ale is a well-balanced, classic brown ale that embodies the traditional characteristics of this style. With its rich malt profile, subtle fruitiness, and smooth drinkability, it’s an ideal choice for a relaxing evening, whether enjoyed on its own or with a meal. This beer perfectly captures the essence of a traditional British-style brown ale with a touch of Central European influence."
   },
   {
     "id": "748c7229-ffdb-49bc-8f05-cc33ba365c00",
@@ -203,7 +230,8 @@
     "abv": "6.8",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Bock Hell is a specialty beer from the Haselbräu brewery, crafted as a strong, malt-forward lager that exemplifies the bock style. Known for its deep flavors and warming character, this beer is ideal for those who enjoy rich, full-bodied brews with a smooth, drinkable profile. Haselbräu Bock Hell is a well-crafted bock lager that brings together the richness of malt flavors with the warming character expected from a bock beer. Its balance of sweetness, fruitiness, and subtle hop bitterness makes it an ideal choice for cooler months and special occasions. Enjoy it as a warming companion to hearty meals or simply as a treat to savor by the fire."
   },
   {
     "id": "ca69fa80-c03d-4698-8ab2-26c15512c250",
@@ -211,7 +239,8 @@
     "abv": "5.7",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Herbstbier is a seasonal beer crafted to celebrate the autumn season. Known for its warm, malt-forward profile and seasonal spices, it embodies the flavors and aromas typical of fall. This beer is perfect for those who appreciate rich, comforting brews that complement the changing landscape and festive occasions of autumn. Haselbräu Herbstbier is a seasonal beer that celebrates the rich, comforting flavors of autumn. With its balanced malt sweetness, subtle spices, and warming character, it’s a perfect beer for enjoying the harvest season, whether paired with traditional autumn foods or simply sipped by a cozy fire."
   },
   {
     "id": "a9b2340e-2d05-428a-9a2c-eba12ede851d",
@@ -219,7 +248,8 @@
     "abv": "6.2",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Haselbräu Adventbier is a seasonal specialty beer crafted to celebrate the festive period leading up to Christmas. Known for its warming character and rich malt complexity, this brew embodies the cozy spirit of Advent. It's an excellent choice for those who enjoy robust, full-bodied beers with a seasonal twist. Haselbräu Adventbier is a festive and flavorful beer that perfectly encapsulates the spirit of the holiday season. Its rich malt base, subtle spicing, and warming character make it an ideal companion for chilly winter evenings and holiday feasts. A true seasonal delight that invites cozy celebrations and shared moments."
   },
   {
     "id": "538dbab9-9e22-4c48-a0a2-a46ed73ffd1b",
@@ -227,7 +257,8 @@
     "abv": "4.7",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "7 Stern Wiener Helles is a classic Vienna-style pale lager, showcasing a light, malt-forward profile with exceptional drinkability. Brewed by 7 Stern Bräu, this beer highlights the traditional brewing techniques of Austria with a focus on quality and balance. 7 Stern Wiener Helles is a perfect example of a well-crafted pale lager, offering a harmonious blend of malt sweetness and subtle hop bitterness. Its clean, refreshing profile makes it an excellent choice for any occasion, from casual gatherings to pairing with a variety of foods. A true testament to the brewing heritage of Vienna, this beer is a celebration of simplicity and quality."
   },
   {
     "id": "4c31968e-5b62-41c4-85a1-7d078bbc3670",
@@ -235,7 +266,8 @@
     "abv": "5.1",
     "ibu": "13.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "7 Stern Märzen is a traditional Austrian Märzen-style lager, crafted with a focus on malt-forward flavors and smooth drinkability. As one of the flagship offerings of Vienna's 7 Stern Bräu, it reflects the rich brewing traditions of Central Europe, making it an excellent choice for fans of balanced, approachable lagers. 7 Stern Märzen is a quintessential Austrian lager that offers a rich yet balanced malt-forward experience. Its toasty, bready flavors and clean finish make it a versatile beer, equally enjoyable on its own or paired with traditional Central European cuisine. Perfect for any occasion, it celebrates the timeless appeal of the Märzen style with the quality and care that 7 Stern Bräu is known for."
   },
   {
     "id": "0bad6a81-dabf-4fab-9335-1d5e3d411c48",
@@ -243,7 +275,8 @@
     "abv": "5.2",
     "ibu": "12.7",
     "type": "weissbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "7 Stern Weizen Classic is a traditional Bavarian-style wheat beer brewed by the Vienna-based 7 Stern Bräu brewery. Known for its refreshing and fruity profile, this beer celebrates the classic flavors and aromas that define the hefeweizen style. 7 Stern Weizen Classic is a beautifully crafted wheat beer that stays true to Bavarian tradition. With its bright, fruity, and spicy character, complemented by a smooth, refreshing finish, this beer is ideal for warm days, social gatherings, or simply enjoying a classic taste of wheat beer heritage."
   },
   {
     "id": "3fab17e2-d4da-4905-827b-1108d0fb45ca",
@@ -251,7 +284,8 @@
     "abv": "4.5",
     "ibu": "12.1",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "7 Stern Prager Dunkles is a traditional dark lager (Dunkel) inspired by the classic brewing styles of Prague and Central Europe. Known for its rich malt character and smooth finish, this beer exemplifies the craftsmanship of Vienna's 7 Stern Bräu brewery. 7 Stern Prager Dunkles is a malt-forward dark lager that blends the comforting flavors of caramel, chocolate, and toasted bread with a clean, refreshing finish. Perfect for cozy evenings or pairing with hearty meals, this beer offers a taste of Central European brewing tradition with a touch of Viennese craftsmanship."
   },
   {
     "id": "e1b88721-38dc-4f00-b6c2-1c4eeca52886",
@@ -259,7 +293,8 @@
     "abv": "4.9",
     "ibu": "NULL",
     "type": "organic lager|zwickl",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "BBR: Beaver Blue Ribbon is likely a creative craft beer with an approachable yet characterful profile. Its name suggests a playful homage to classic American lagers like Pabst Blue Ribbon (PBR), but with a craft beer twist. BBR: Beaver Blue Ribbon is a craft beer reinterpretation of the classic American lager, offering a slightly richer malt profile and a refined hop balance. It’s designed to be approachable, versatile, and perfect for any occasion, from casual gatherings to backyard barbecues. With its clean, crisp taste and sessionable ABV, it’s a beer that appeals to a wide range of drinkers."
   },
   {
     "id": "7cf78b75-fd51-41af-a68a-f65f59093994",
@@ -267,7 +302,8 @@
     "abv": "5.7",
     "ibu": "NULL",
     "type": "rye pale ale",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Wry Pale Ale (Wry P.A.) is a unique twist on the classic American Pale Ale, incorporating rye malt into the grain bill. This addition gives the beer a distinctive spicy and earthy character that complements the traditional hop-forward profile of the style. Wry P.A. (Wry Pale Ale) is a bold and flavorful beer that marries the hop-forward character of a classic Pale Ale with the spicy, earthy complexity of rye malt. Perfect for those seeking a twist on the familiar, it’s a versatile beer that’s enjoyable on its own or paired with a variety of foods. Its balance of spiciness, malt sweetness, and hop bitterness ensures a memorable drinking experience."
   },
   {
     "id": "fce6ad4d-4a4f-4cda-b5c0-9b997c5253f3",
@@ -275,7 +311,8 @@
     "abv": "6.4",
     "ibu": "NULL",
     "type": "american ipa",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Late Summer IPA is a seasonal India Pale Ale designed to capture the essence of the waning summer months. It balances bright, juicy hop flavors with a refreshing, drinkable profile, making it ideal for late-season gatherings or warm afternoons. Late Summer IPA is a vibrant and refreshing seasonal IPA that captures the sunny, carefree vibes of late summer. Its balance of juicy hop flavors, moderate bitterness, and light malt body make it an ideal choice for enjoying outdoors or alongside fresh, seasonal dishes. Whether you're savoring the last warm days of the season or pairing it with grilled fare, this IPA is sure to elevate the moment."
   },
   {
     "id": "ceea73fa-23ed-439a-b24d-b9551ec36f0d",
@@ -283,7 +320,8 @@
     "abv": "5.3",
     "ibu": "NULL",
     "type": "american wheat",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "State of Nature American Wheat is a style of wheat beer that combines the light, refreshing qualities of wheat malt with a distinctively American twist, often featuring bolder hop profiles or innovative flavors. This type of beer is approachable and versatile, offering a slightly different take on traditional wheat ales. State of Nature American Wheat is a clean, refreshing beer that balances the smooth, bready qualities of wheat malt with the brighter and bolder flavors of American hops. It’s perfect for casual drinking, whether on a summer day or paired with a variety of meals. With its light, crisp body and citrusy character, this beer appeals to fans of traditional wheat beers and hop-forward ales alike."
   },
   {
     "id": "242f7785-642a-4fbf-bbd3-3cc49ed6453e",
@@ -291,7 +329,8 @@
     "abv": "5.5",
     "ibu": "NULL",
     "type": "golden ale",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Sunday Morning Golden Ale is a style of beer characterized by its light, crisp, and easy-drinking nature, often with a balance of malt sweetness and a mild hop presence. Golden ales are typically refreshing and versatile, making them suitable for a variety of drinking occasions. Sunday Morning Golden Ale is an approachable, versatile beer that offers a balanced and refreshing drinking experience. It’s perfect for any relaxed occasion, whether enjoyed solo or paired with food. The clean malt sweetness and mild hop bitterness make it easy to drink and suitable for those who appreciate a light, flavorful ale."
   },
   {
     "id": "b607c4ad-c346-46c6-85b1-5e654718b0ab",
@@ -299,7 +338,8 @@
     "abv": "4.1",
     "ibu": "NULL",
     "type": "witbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Witty Bastard Witbier is a style of Belgian wheat beer known for its light, refreshing nature and complex flavors derived from wheat, yeast, and spices. Witbiers are often hazy, with a crisp character and fruity, spicy notes. Witty Bastard Witbier is a well-balanced Belgian wheat beer that offers a harmonious blend of citrus, fruity, and spicy flavors. It’s designed to be light, refreshing, and easy-drinking, making it an excellent choice for warmer days or occasions where a crisp, flavorful beer is desired. Whether enjoyed on its own or paired with food, Witty Bastard Witbier delivers a satisfying and enjoyable experience."
   },
   {
     "id": "0e888e0a-14ce-44db-b3f2-3eeb75cf6d32",
@@ -307,7 +347,8 @@
     "abv": "5.4",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Charlie Brown Ale is a style of brown ale that combines rich malt flavors with a moderate hop bitterness, resulting in a balanced and approachable drinking experience. Brown ales are known for their smooth, nutty characteristics and a gentle sweetness that makes them easy to enjoy. Charlie Brown Ale is a well-balanced, approachable brown ale that showcases the richness of malt flavors with a pleasant nutty character. It’s designed to be easy-drinking and versatile, making it suitable for various occasions, from casual sipping to pairing with food. Whether enjoyed on its own or with a meal, Charlie Brown Ale delivers a satisfying and enjoyable beer experience."
   },
   {
     "id": "52cdda96-344b-4b5a-9799-1056954fb0f9",
@@ -315,15 +356,17 @@
     "abv": "8.4",
     "ibu": "NULL",
     "type": "belgian-style golden strong ale",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Brave Lion Golden Strong Ale is a classic Belgian style ale that combines fruity, spicy, and malty characteristics with a higher alcohol content. It’s crafted to be bold and complex, yet balanced, making it a favorite among beer enthusiasts who enjoy deep, flavorful brews. This beer invites slow sipping and savoring, perfect for pairing with a variety of dishes or enjoying on special occasions."
   },
   {
     "id": "35dd6782-6a83-4888-b56a-651f32df2f35",
-    "name": "ESP|ESP - English Special Bitter (ESB)",
+    "name": "ESP - English Special Bitter (ESB)",
     "abv": "5.2",
     "ibu": "NULL",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "English Special Bitter (ESB) offers a harmonious blend of malt richness and hop bitterness, making it a versatile and classic choice for beer enthusiasts. It embodies the traditional character of British ales and remains a popular choice in both traditional pubs and modern craft beer bars. Its balanced nature and nuanced flavors make it an ideal pairing with a wide range of foods, as well as a satisfying beer to enjoy on its own."
   },
   {
     "id": "cf08e4df-26c3-4e7e-bf95-4c379dd24c74",
@@ -331,15 +374,8 @@
     "abv": "5",
     "ibu": "NULL",
     "type": "american lager",
-    "country": "Austria"
-  },
-  {
-    "id": "5b4e95f4-c9ef-4ded-98c8-c96cae781ea4",
-    "name": "Cobretti",
-    "abv": "8.5",
-    "ibu": "NULL",
-    "type": "double ipa",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Modern Lager is a style of lager beer that typically emphasizes clean, crisp, and refreshing characteristics, while also incorporating modern brewing techniques and flavors. It’s designed to appeal to contemporary palates, offering a balanced profile that can range from light and sessionable to slightly more robust in flavor."
   },
   {
     "id": "03c2f46f-da39-4fbc-ad40-59f5a8d4f987",
@@ -347,7 +383,8 @@
     "abv": "5.0",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Märzen is a traditional Austrian Märzen-style beer brewed by Villacher Brewery. Known for its smooth, malty character and balanced profile, it offers a satisfying and approachable drinking experience. Märzen beers are a cornerstone of Austrian and German brewing, celebrated for their rich malt flavors and moderate bitterness. Villacher Märzen is a quintessential example of the Märzen style, offering a balance of malt richness and refreshing drinkability. Perfect for everyday enjoyment or pairing with a meal, it embodies the craftsmanship and tradition of Austrian brewing. Its approachable character makes it a favorite choice for beer enthusiasts and casual drinkers alike."
   },
   {
     "id": "e67dabc0-e75f-4444-83b3-4a26a65d7f89",
@@ -355,7 +392,8 @@
     "abv": "4.9",
     "ibu": "11.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Pils is a crisp and refreshing Pilsner-style beer brewed by Villacher Brewery in Austria. Known for its bright hop character and clean finish, this beer embodies the classic qualities of a traditional European Pilsner. Villacher Pils is an excellent representation of a classic Pilsner, delivering a harmonious blend of hop bitterness and malt balance. Its crisp, clean profile makes it a versatile beer, ideal for casual enjoyment or pairing with a variety of foods. This beer is a testament to Villacher Brewery’s commitment to brewing excellence and tradition."
   },
   {
     "id": "04908999-f2ab-452c-8179-048b18b5a01a",
@@ -363,7 +401,8 @@
     "abv": "4.9",
     "ibu": "12.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Dunkel is a classic dark lager crafted by Villacher Brewery, offering a rich malt profile and smooth drinkability. This beer reflects the traditional Austrian brewing approach to Dunkel (dark) lagers, delivering a harmonious balance of roasted malt flavors and subtle bitterness. Villacher Dunkel is a richly flavored yet balanced beer, perfect for those who enjoy the robust character of dark lagers. Its smooth texture and complex malt profile make it an excellent choice for savoring on its own or pairing with hearty meals. It’s a testament to Villacher Brewery’s skill in crafting traditional Austrian beers."
   },
   {
     "id": "04654b13-528b-4605-9e5f-89e9eebde589",
@@ -371,7 +410,8 @@
     "abv": "4.0",
     "ibu": "9.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Pur is a naturally pure and unfiltered beer crafted by Villacher Brewery. Designed to highlight the raw, authentic flavors of traditional brewing, this beer delivers a refreshing and rich taste, with a focus on natural ingredients and a minimally processed profile. Villacher Pur is a beer for those who appreciate the authenticity and depth of unfiltered brewing. Its combination of rich, natural malt flavors and subtle hop balance makes it a perfect choice for casual enjoyment or pairing with hearty meals. It’s a standout example of Villacher Brewery’s dedication to traditional, high-quality beer-making."
   },
   {
     "id": "737e74b8-5ecc-41e0-8ecf-507089021fd0",
@@ -379,7 +419,8 @@
     "abv": "4.6",
     "ibu": "11.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Edition is a premium beer offering from Villacher Brewery, designed to showcase refined brewing expertise and exceptional quality. This edition reflects the brewery’s commitment to creating a well-balanced and versatile beer that caters to a wide range of palates. Villacher Edition is a testament to Villacher Brewery's ability to craft beers that are approachable, flavorful, and impeccably balanced. This versatile beer is perfect for any occasion, offering a crisp, clean profile that appeals to a wide audience."
   },
   {
     "id": "c54ece57-e118-4260-9aa4-709e717f842f",
@@ -387,7 +428,8 @@
     "abv": "7.0",
     "ibu": "15.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Selection Red is a distinctive red lager crafted by Villacher Brewery, showcasing a rich malt profile with a smooth, balanced character. This beer emphasizes malty sweetness complemented by a mild hop bitterness, offering a delightful experience for those who enjoy complex and flavorful brews. Villacher Selection Red offers a rich and satisfying drinking experience, perfect for those who appreciate malty, well-balanced beers. Its smooth texture, inviting aromas, and flavorful palate make it a standout choice for casual enjoyment or pairing with a meal."
   },
   {
     "id": "16f7ee24-8b26-463d-ab1b-e2235ea527ba",
@@ -395,7 +437,8 @@
     "abv": "5.3",
     "ibu": "12.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Villacher Oktoberbräu is a seasonal Märzen-style beer brewed by Villacher Brewery in Austria. Created to celebrate the festive spirit of Oktoberfest, this beer offers a harmonious balance of malt richness and smooth drinkability, embodying the essence of Austrian brewing tradition. Villacher Oktoberbräu is a classic Märzen beer designed for celebration. Its malty richness, balanced bitterness, and smooth drinkability make it the perfect accompaniment to the festivities of Oktoberfest or any occasion where quality and tradition are celebrated."
   },
   {
     "id": "97260b13-da69-4e92-99a9-74192932a45d",
@@ -403,7 +446,8 @@
     "abv": "5.0",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Piestinger Lager is a classic Austrian lager, brewed with precision and care to deliver a clean, refreshing, and highly drinkable beer. This lager is crafted by Brauerei Piesting, a brewery known for its commitment to traditional brewing methods and high-quality ingredients. Piestinger Lager is a versatile and refreshing beer, perfect for casual gatherings, meals, or as a go-to choice for those who appreciate a well-crafted, traditional lager. Its balance of malt and hops ensures a pleasant and satisfying drinking experience every time."
   },
   {
     "id": "803c6b42-f229-4d33-93b9-eead6147acb3",
@@ -411,7 +455,8 @@
     "abv": "5.2",
     "ibu": "12.3",
     "type": "pils",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hirter Privat Pils is a premium Pilsner brewed by Hirter Brewery, showcasing the crisp, clean, and refreshing qualities that define the Pilsner style. Known for its dedication to traditional brewing methods and high-quality ingredients, Hirter Brewery has crafted Privat Pils to be an elegant and refined example of the style. Hirter Privat Pils is a testament to the Pilsner tradition, delivering a beer that is crisp, refreshing, and elegantly balanced. Perfect for fans of light, hop-forward beers, this Pilsner is an excellent choice for any occasion, whether as a refreshing aperitif or paired with a meal."
   },
   {
     "id": "a1ac1fbe-6860-49d4-a129-b744138e2bf3",
@@ -419,7 +464,8 @@
     "abv": "5.0",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hirter Märzen is a traditional Märzen lager brewed by Hirter Brewery, known for its long-standing tradition of crafting quality Austrian beers. Märzen lagers are historically brewed in the spring, aged, and enjoyed in the cooler months, making them perfect for fall and winter. Hirter Märzen offers a harmonious blend of malt sweetness, hop bitterness, and a full-bodied profile that reflects the best of Austrian brewing heritage. Hirter Märzen offers a classic Märzen lager experience with deep malt flavors, balanced bitterness, and a full-bodied finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character and historical significance."
   },
   {
     "id": "623bf52d-a559-4306-9fae-e6588e45a52d",
@@ -427,7 +473,8 @@
     "abv": "5.0",
     "ibu": "12.8",
     "type": "dunkles",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hirter Morchl is a distinctive and traditional Märzen-style beer brewed by Hirter Brewery, known for its rich heritage and craftsmanship. Märzen beers, also known as March beers, are typically brewed in early spring and stored until the cooler months, making them perfect for the fall season. Hirter Morchl offers a balanced combination of malt sweetness, moderate hop bitterness, and a full-bodied nature. Hirter Morchl offers a classic Märzen lager experience with deep malt flavors, balanced bitterness, and a full-bodied finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character and historical significance."
   },
   {
     "id": "c9d2c304-80d7-49ff-91c6-cf6d00720d7c",
@@ -435,7 +482,8 @@
     "abv": "4.8",
     "ibu": "11.6",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hirter Biobier is an organic beer brewed by Hirter Brewery, known for its commitment to quality and sustainability. This lager adheres to organic principles, using natural ingredients to deliver a refreshing and environmentally friendly beer experience. Hirter Biobier combines traditional brewing techniques with a modern, eco-conscious approach, making it a unique choice for those who value both taste and sustainability. Hirter Biobier offers an organic lager experience that combines the best of traditional brewing with a commitment to sustainability and quality. It’s an excellent choice for those who appreciate a clean, refreshing beer with a natural character."
   },
   {
     "id": "d5ef14f9-9576-4518-82ae-9837c39e0b91",
@@ -443,7 +491,8 @@
     "abv": "4.9",
     "ibu": "11.9",
     "type": "vollbier|bernstein",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Hirter 1270 is a traditional Austrian Märzen-style beer that celebrates the brewery's rich history and craftsmanship. Named after the year Hirter Brewery was established, 1270, this beer embodies the classic characteristics of Märzen lager: balanced malt sweetness, moderate hop bitterness, and a full-bodied nature. Hirter 1270 offers a satisfying and authentic drinking experience. Hirter 1270 offers a classic Märzen lager experience with deep malt flavors, balanced bitterness, and a full-bodied finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of historical significance and local character."
   },
   {
     "id": "c06c7f47-aee4-4a2d-853b-10ec0e9d3d12",
@@ -451,7 +500,8 @@
     "abv": "5.0",
     "ibu": "11.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Schleppe Märzen is a traditional style of Märzen beer, reflecting the rich history and craftsmanship of Bavarian brewing traditions. Märzen beers are known for their balanced malt sweetness, moderate hop bitterness, and full-bodied nature, making them perfect for cooler months. Schleppe Märzen offers a satisfying and versatile drinking experience. Schleppe Märzen offers a classic Märzen lager experience with rich malt flavors, balanced bitterness, and a full-bodied finish. It’s an excellent choice for those who appreciate traditional European lagers with depth of flavor and seasonal appeal."
   },
   {
     "id": "7fba9331-43ab-4ce6-bc4f-290565b1fe31",
@@ -459,7 +509,8 @@
     "abv": "4.9",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Loncium Helles is a classic German-style pale lager that embodies the traditional Helles characteristics. Known for its clean, crisp, and refreshing profile, Loncium Helles is a versatile beer style that highlights the balance of malt sweetness and hop bitterness. Loncium Helles offers a classic Helles lager experience with a well-balanced malt profile, moderate hop bitterness, and a crisp, refreshing finish. It’s an excellent choice for those who enjoy traditional German lagers with a touch of local character."
   },
   {
     "id": "6edc287c-11eb-4e06-a5d4-695118e90039",
@@ -467,7 +518,8 @@
     "abv": "5.5",
     "ibu": "12.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Loncium Austrian Amber Lager is a traditional style of Austrian beer that reflects the rich brewing traditions and flavor profiles characteristic of Austria. Known for its balanced malt and hop characteristics, Loncium offers a smooth, drinkable, and versatile lager experience."
   },
   {
     "id": "87eedaf6-32e2-40eb-b5f6-16a26782770f",
@@ -475,7 +527,8 @@
     "abv": "5.1",
     "ibu": "12.2",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Märzen is a traditional Austrian amber lager that embodies the characteristics of classic Märzen beers, known for their rich malt flavors, balanced bitterness, and full-bodied nature. Märzen beers are typically brewed in the autumn and are traditionally enjoyed during the cooler months, making Baumgartner Märzen a perfect seasonal choice. Baumgartner Märzen offers a classic Märzen lager experience with rich malt flavors, balanced bitterness, and a full-bodied, smooth finish. It’s an excellent choice for those who enjoy traditional European lagers with depth of flavor and seasonal appeal."
   },
   {
     "id": "81a1eafc-3b5c-41bb-a295-de655f66e1e6",
@@ -483,7 +536,8 @@
     "abv": "5.1",
     "ibu": "13.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Doppelmalz is a traditional Austrian dark lager that showcases a rich and malty flavor profile. Known for its deep malt character and balanced sweetness, Baumgartner Doppelmalz is a robust and satisfying beer that is ideal for those who enjoy full-bodied brews. Baumgartner Doppelmalz offers a classic Doppelmalz lager experience with rich malt flavors, balanced bitterness, and a smooth, full-bodied finish. It’s an excellent choice for those who enjoy traditional dark lagers with depth of flavor and local character."
   },
   {
     "id": "148592fb-79b2-4ea7-8b76-f71e15762150",
@@ -491,7 +545,8 @@
     "abv": "4.8",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Pils is a traditional Austrian Pilsner-style lager that embodies the crisp, clean, and refreshing characteristics typical of this European beer style. Known for its balanced flavor profile, moderate bitterness, and high drinkability, Baumgartner Pils is a great choice for those who appreciate classic Pilsners. Baumgartner Pils offers a classic Pilsner experience with a well-balanced malt profile, clean bitterness, and a refreshing, easy-drinking finish. It’s an excellent choice for those who enjoy traditional European lagers with a touch of local character."
   },
   {
     "id": "1d6d8563-dde0-4208-aeee-d6e5e8945579",
@@ -499,7 +554,8 @@
     "abv": "5.7",
     "ibu": "13.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Export is a traditional Austrian lager that exemplifies the classic characteristics of European brewing. Known for its smooth drinkability, balanced flavor, and quality ingredients, Baumgartner Export is a popular choice among lager enthusiasts. Baumgartner Export offers a classic Austrian lager experience with a well-balanced malt profile, clean bitterness, and a refreshing, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "e81a3dcf-7cd2-435a-9f5e-3e28cd09a8f1",
@@ -507,7 +563,8 @@
     "abv": "5.0",
     "ibu": "12.0",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baunti 1609 Lager is a traditional Austrian lager beer that embodies the essence of Austrian brewing traditions, known for its rich malt flavors, balanced bitterness, and approachable character. Baunti 1609 Lager offers a classic Austrian lager experience with a well-balanced malt profile, clean bitterness, and a refreshing, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "519507c4-474b-435c-9070-a2584bf267bb",
@@ -515,7 +572,8 @@
     "abv": "5.1",
     "ibu": "12.2",
     "type": "naturtrueb|unfiltriert",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Zwickl is a traditional Austrian unfiltered lager that captures the essence of regional brewing traditions. This style of beer is appreciated for its natural, hazy appearance and rich, unfiltered flavor, making it a refreshing and authentic choice. Baumgartner Zwickl offers a classic Austrian unfiltered lager experience, with a well-balanced malt profile, clean bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a twist—natural haze and rich flavor."
   },
   {
     "id": "4945288a-2c78-4f31-a500-1b9492ce9e3f",
@@ -523,7 +581,8 @@
     "abv": "5.4",
     "ibu": "12.7",
     "type": "altmuenchner dunkel",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Baumgartner Urbier is a traditional Austrian dark lager that embodies the rich, malty flavors typical of Central European brewing traditions. Known for its well-balanced character and robust profile, Baumgartner Urbier offers a satisfying drinking experience that reflects the craftsmanship and heritage of Austrian brewing. The flavor profile is malt-forward with a smooth, bready sweetness that includes caramel, toffee, dark bread, and a touch of chocolate or coffee. The roasted malt adds complexity and depth to the flavor, while the hops contribute earthy, herbal, and slightly floral notes. There may also be a hint of dark fruit like plum, raisin, or fig, enhancing the beer’s complexity."
   },
   {
     "id": "d20841ae-1a35-4d60-a3c5-91c22a29290b",
@@ -531,7 +590,8 @@
     "abv": "6.5",
     "ibu": "16.5",
     "type": "weizenbock",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Rieder Weißbierbock is a traditional Austrian strong wheat beer that combines the rich flavors of a bock with the fruity and spicy characteristics of a wheat beer. This style is known for its robust alcohol content, smooth maltiness, and balanced hop bitterness, making it a warming and flavorful choice. Rieder Weißbierbock / Weißbier Bock offers a hearty and flavorful wheat bock experience, with rich maltiness, fruity esters, and a touch of spiciness. It’s an excellent choice for those who appreciate strong wheat beers with a depth of character."
   },
   {
     "id": "feb5def3-64a7-4198-a11c-34edc5748eb4",
@@ -539,7 +599,8 @@
     "abv": "5.2",
     "ibu": "12.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Rieder 1908 Naturtrüb (also known as Rieder Naturtrüb) is a traditional Austrian unfiltered lager that embodies the authentic flavors and craftsmanship of Austrian brewing traditions. This style is appreciated for its natural, cloudy appearance and rich, unfiltered character, which provide a distinct taste experience. Rieder 1908 Naturtrüb / Rieder Naturtrüb offers a classic Austrian lager experience with a twist—its unfiltered character provides depth and complexity. It’s an excellent choice for those who appreciate traditional European lagers with a unique, natural character."
   },
   {
     "id": "aad308d4-caed-4808-983a-eaef887b4f48",
@@ -547,7 +608,8 @@
     "abv": "5.0",
     "ibu": "12.2",
     "type": "vollbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Rieder Urecht is a traditional Austrian beer that carries the essence of the region’s brewing heritage. Known for its authentic flavors and balanced character, Rieder Urecht offers a versatile and enjoyable drinking experience that reflects the quality and craftsmanship typical of Austrian lagers. Rieder Urecht offers a classic Austrian lager experience with a well-balanced malt profile, gentle hop bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "ef5a4568-9f3a-4f83-bbf5-2576dc3a5e1a",
@@ -555,7 +617,8 @@
     "abv": "5.0",
     "ibu": "12",
     "type": "dunkles vollbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Rieder Dunkel is a traditional Austrian dark lager that embodies the rich and complex flavors typical of this beer style. Known for its smooth malt characteristics and balanced bitterness, Rieder Dunkel offers a hearty and satisfying drinking experience that appeals to fans of darker beers. Rieder Dunkel offers a classic dark lager experience with rich malt flavors, balanced bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who enjoy traditional dark lagers with a depth of flavor and a touch of local character."
   },
   {
     "id": "c72b51e1-6618-4d04-a3cb-84fc1ad343a1",
@@ -563,7 +626,8 @@
     "abv": "5.0",
     "ibu": "12.9",
     "type": "vollbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Rieder Bürgerl is a traditional Austrian lager that embodies the essence of regional brewing heritage from the Ried district in Austria. Known for its authentic flavors and classic lager characteristics, Rieder Bürgerl offers a well-balanced drinking experience that appeals to both casual drinkers and lager enthusiasts alike. Rieder Bürgerl offers a classic Austrian lager experience with a balanced malt profile, moderate hop bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "e0dd44aa-8c72-4815-a471-dd2dc3e8f382",
@@ -571,7 +635,8 @@
     "abv": "5.2",
     "ibu": "12.2",
     "type": "zwickl|vollbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Innviertler Stadtbräu is a traditional Austrian lager that embodies the essence of regional brewing heritage. This beer style is known for its authenticity, clean malt flavors, and balanced hop bitterness, reflecting the quality and craftsmanship of Austrian brewing traditions. Innviertler Stadtbräu is crafted to offer a classic lager experience with a touch of local character. Innviertler Stadtbräu offers a classic Austrian lager experience with a well-balanced malt profile, gentle hop bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "2f574a50-2dd8-4edc-80c1-9977360322ac",
@@ -579,7 +644,8 @@
     "abv": "5.2",
     "ibu": "12.8",
     "type": "vollbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Innviertler Landbier is a traditional Austrian lager that reflects the regional brewing heritage of the Innviertel area. This beer style is known for its authenticity, high-quality ingredients, and a smooth, easy-drinking character. Innviertler Landbier embodies the craftsmanship and flavors typical of traditional Austrian lagers, making it a favorite among local beer enthusiasts. Innviertler Landbier offers a classic Austrian lager experience with a well-balanced malt profile, gentle hop bitterness, and a smooth, easy-drinking finish. It’s an excellent choice for those who appreciate traditional European lagers with a touch of local character."
   },
   {
     "id": "05f8b8e1-7489-435c-a9e1-1814db13309a",
@@ -587,7 +653,8 @@
     "abv": "4.9",
     "ibu": "12",
     "type": "maerzen",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Revital Aspach Hausbräu is a traditional German beer brewed in the picturesque region of Aspach. This local beer is crafted with an emphasis on quality ingredients and traditional brewing techniques, reflecting the rich beer culture of Germany. Revital Aspach Hausbräu offers a well-rounded and approachable flavor profile that appeals to beer enthusiasts who appreciate classic lager styles."
   },
   {
     "id": "69529b79-92f1-478f-a0ea-9173e5561702",
@@ -595,7 +662,8 @@
     "abv": "4.9",
     "ibu": "11.5",
     "type": "lager|pils",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Trumer Pils is a traditional pilsner-style lager that embodies the crisp, clean, and refreshing characteristics typical of this German beer style. Known for its high-quality ingredients and traditional brewing methods, Trumer Pils offers a well-balanced flavor profile that appeals to both lager enthusiasts and newcomers alike."
   },
   {
     "id": "72b6401d-011a-41b6-a1bd-a6fda0292e49",
@@ -603,14 +671,17 @@
     "abv": "6.8",
     "ibu": "16.2",
     "type": "bockbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Trumer Imperial Pils is a high-quality pilsner-style beer that embodies the crisp, refreshing characteristics of a traditional European lager with a slightly elevated alcohol content. This style of beer is brewed to offer a balance of clean malt flavors, pronounced hop bitterness, and a satisfying mouthfeel. Trumer Imperial Pils is crafted with attention to detail, using premium ingredients and traditional brewing methods."
   },
   {
     "id": "83d87b52-b15b-4421-9292-ebf5f2fa0ee4",
     "name": "Trumer Märzen",
     "abv": "4.8",
     "ibu": "11.8",
-    "type": "lager|maerzen.Austria"
+    "type": "lager|maerzen.Austria",
+    "country":"Germany",
+    "description": "Trumer Märzen is a traditional German-style Märzen lager that embodies the rich brewing traditions of Bavaria and Austria. This style of beer is traditionally brewed in March, then lagered or stored in cold conditions until it is ready to be enjoyed during the autumn months. Trumer Märzen, like other Märzen beers, is known for its smooth malt character, balanced hop bitterness, and a clean, drinkable profile. "
   },
   {
     "id": "b156195a-1bca-453d-9243-6a4f51a8e26c",
@@ -618,7 +689,8 @@
     "abv": "5.6",
     "ibu": "12.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "An Austrian Amber Ale is a unique beer style that combines elements of traditional Austrian brewing heritage with the characteristics of an amber ale. This style offers a flavorful malt profile, balanced hop bitterness, and a pleasing drinkability. Austrian Amber Ales are known for their smoothness, rich malt flavors, and a slight caramel sweetness that appeals to beer enthusiasts."
   },
   {
     "id": "d18cd772-a38f-408c-b948-6f55719f181e",
@@ -626,7 +698,8 @@
     "abv": "4.9",
     "ibu": "11.8",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Jakobsgold is a German beer brand known for producing a range of traditional lager styles. The name Jakobsgold translates to 'Jacob's Gold,' which evokes a sense of quality and premium craftsmanship associated with these beers. Jakobsgold beers are typically known for their smoothness, balanced flavor profiles, and adherence to traditional German brewing methods."
   },
   {
     "id": "ce2b667c-f09e-4530-8045-c7c19d32a4fc",
@@ -634,7 +707,8 @@
     "abv": "4.9",
     "ibu": "11.9",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Edelguss is a German beer brand that typically offers a range of traditional lager styles known for their quality, craftsmanship, and regional flavors. The name 'Edelguss' translates to 'noble pour' in English, reflecting the premium quality and elegant presentation associated with these beers."
   },
   {
     "id": "c5b18967-27dd-49a3-9580-cc1f9f2fc5cb",
@@ -642,7 +716,8 @@
     "abv": "5.6",
     "ibu": "12.7",
     "type": "steinbier",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Urban Keller's Steinbier is a traditional German style beer known for its unique brewing method and distinctive flavor profile. Steinbiers are known for their use of heated stones to boil the wort, which imparts a unique smokiness and malt flavor to the beer. The flavor is malt-forward with a rich, caramel sweetness that is balanced by a noticeable smoky bitterness. The smokiness is a defining feature of the style, adding depth and complexity that sets it apart from other lagers. You might also find notes of toffee, toasted bread, roasted nuts, and a hint of dark fruit such as plum or raisin."
   },
   {
     "id": "1f5afa2b-fd81-4457-9795-3c6d8c8c96e1",
@@ -650,7 +725,8 @@
     "abv": "5.1",
     "ibu": "12.0",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zillertal Märzen is a traditional German Märzen lager, a style typically associated with the Oktoberfest celebrations and autumn beer traditions. Märzen lagers are known for their rich malt character, smooth drinkability, and a well-balanced profile that appeals to beer enthusiasts. The flavor is malt-driven with a rich, smooth sweetness that includes flavors of caramel, toffee, toasted bread, and a nutty or biscuit-like character. The malt profile is the star, providing a satisfying malt base that is well-rounded and complex."
   },
   {
     "id": "783df9f6-3063-40c9-a1d9-4d4bed75e4a3",
@@ -658,21 +734,26 @@
     "abv": "4.9",
     "ibu": "11.0",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Zillertal Pils is a German-style Pilsner that embodies the classic characteristics of this popular lager style. Pilsners are known for their crisp, clean taste, refreshing finish, and balanced hop bitterness."
   },
   {
     "id": "e8e96db2-34a5-4869-bce4-488e94a5e6eb",
     "name": "Zillertal Schwarzes",
     "abv": "5.2",
     "ibu": "12.0",
-    "type": "schwarzbier"
+    "type": "schwarzbier",
+    "country": "Germany",
+    "description": "Zillertal Schwarzes is a traditional German dark lager, also known as Schwarzbier. Schwarzbier, which translates to 'black beer,' is known for its smooth, balanced, and easy-drinking character with roasted malt flavors and a clean finish."
   },
   {
     "id": "f0976975-7a53-40d9-9c01-99f8fd2de1ed",
     "name": "Huber Bräu St. Johanner Engerl",
     "abv": "3.7",
     "ibu": "9.4",
-    "type": "schankbier"
+    "type": "schankbier",
+    "country": "Germany",
+    "description": "Huber Bräu St. Johanner Engerl is a traditional German beer that embodies the rich tradition and craftsmanship of German brewing. This beer is known for its balanced flavors, smooth profile, and a touch of complexity that appeals to beer enthusiasts looking for a drinkable yet flavorful option."
   },
   {
     "id": "07967b68-13ed-4df7-9873-462f867489db",
@@ -680,7 +761,8 @@
     "abv": "4.9",
     "ibu": "11.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Meisterpils is a German-style Pilsner that showcases the classic characteristics of this well-loved lager style. Pilsners are known for their crisp, clean taste, refreshing finish, and balanced hop bitterness."
   },
   {
     "id": "dd283fbd-efe2-4a30-846f-b966c0ba9233",
@@ -688,7 +770,8 @@
     "abv": "5.4",
     "ibu": "12.7",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Spezial is a traditional German beer that typically falls into the category of specialty lagers or special brews. These beers are known for their unique and complex flavor profiles, often distinguished by carefully selected ingredients and traditional brewing techniques."
   },
   {
     "id": "af83d727-0183-475b-847c-6d29c5334983",
@@ -696,7 +779,8 @@
     "abv": "5.0",
     "ibu": "11.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Augustinus is a German-style beer known for its classic and traditional characteristics. It’s a representation of a well-balanced, robust lager that offers depth in flavor and a smooth drinking experience. A well-balanced malt-driven beer with a rich, smooth flavor. The malt sweetness is at the forefront, with flavors of caramel, toffee, and toasted bread. Dark fruit notes are evident, adding depth and enhancing the complexity of the beer. A mild hop bitterness helps to balance the malt sweetness without overpowering it. "
   },
   {
     "id": "48f52208-f6c8-4e60-9350-db5a58627fc4",
@@ -704,7 +788,9 @@
     "abv": "5.0",
     "ibu": "11.6",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "",
+    "description": "Huber Bräu Dunkel is a traditional German dark lager known for its rich malt flavors and balanced profile. This style of beer combines the smooth, caramel-like sweetness of dark malts with the drinkability of a lager. The flavor is dominated by the malty sweetness of caramel, toffee, and dark bread crust, which provides a smooth and rich mouthfeel. There’s a gentle bitterness from the hops that helps balance the sweetness without overpowering it. Dark fruit flavors such as raisin and plum add depth, while a mild to moderate alcohol warmth provides a warming sensation on the palate. The beer finishes with a balanced mix of sweetness and mild bitterness, making it easy to drink."
   },
   {
     "id": "36c18cc6-f9fc-4783-8964-7fccef21d888",
@@ -712,7 +798,8 @@
     "abv": "5.2",
     "ibu": "12.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Tiroler Hefeweizen Hell is a light and refreshing German wheat beer, showcasing the classic characteristics of a Hefeweizen with a bright and crisp profile. This beer is known for its fruity esters, spicy notes, and smooth drinkability. Light and refreshing with a clean malt character that highlights the fruity esters. You’ll find flavors of banana and a touch of citrus zest, which provide a bright and vibrant quality to the beer. The malt is lightly sweet, complementing the fruity and spicy notes. There’s a slight spiciness from the clove phenols that balances the sweetness without overpowering the flavor. The finish is dry and slightly crisp, making it very drinkable."
   },
   {
     "id": "8120a225-8250-4076-bd4c-63894db514e4",
@@ -720,7 +807,8 @@
     "abv": "5.2",
     "ibu": "12.5",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Tiroler Hefeweizen Dunkel is a traditional German dark wheat beer that combines the fruity and spicy characteristics of a Hefeweizen with the rich, malty flavors of a Dunkel lager. This beer style offers a harmonious balance of sweetness and complexity. A well-balanced combination of sweet malt flavors and fruity esters. The malt profile showcases caramel, toffee, and dark bread crust notes, which provide richness and depth to the flavor. The fruity esters of banana and dark fruit are complemented by a hint of clove-like spice. The beer finishes with a moderate hop bitterness that balances the sweetness of the malt."
   },
   {
     "id": "27a206e9-5594-4858-9e66-6e21c13e47d4",
@@ -728,7 +816,8 @@
     "abv": "3.5",
     "ibu": "8.3",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Leichte Weisse is a German-style wheat beer that offers a refreshing and light take on the classic Hefeweizen. This beer is characterized by its smooth, fruity flavors and aromatic yeast profile. Light and refreshing with a clean, slightly sweet malt backbone. The fruity esters dominate the palate, showcasing flavors of banana, pear, and light citrus. There is a subtle spiciness from the clove-like phenols, which add complexity and depth. The beer is well-balanced with a soft, smooth mouthfeel that is easy to drink."
   },
   {
     "id": "114a352f-a879-4d54-92b6-ebacaa14e1cf",
@@ -736,7 +825,8 @@
     "abv": "7.0",
     "ibu": "16.4",
     "type": "",
-    "country": "Austria"
+    "country": "Austria",
+    "description": "Huber Bräu Bock is a style of strong, dark lager originating from the traditional German brewing tradition. Bock beers are known for their rich, malty flavor profile and higher alcohol content compared to standard lagers. The flavor is predominantly malty, with a good balance between sweetness and bitterness. Caramel, toffee, and roasted malt flavors dominate, providing a rich, smooth mouthfeel. Dark fruit flavors can be prominent, especially as the beer warms up. Hop bitterness is usually moderate, just enough to provide balance without overwhelming the malt profile. A touch of alcohol warmth may be detectable, especially in stronger versions."
   },
   {
     "id": "18281e1d-593a-49a6-a663-6eee8f7e27eb",
@@ -744,7 +834,8 @@
     "abv": "3.8",
     "ibu": "10",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Světlé výčepní pivo (Pale Draft Beer) is a traditional Czech bottom-fermented lager known for its low alcohol content, usually around 3.5–4.0% ABV. It is characterized by a mild, refreshing taste with a well-balanced mix of malt sweetness and hop bitterness. The term'výčepní' refers to beer that is typically served on draft directly from a tank or keg at pubs. History: Světlé výčepní pivo has a long history dating back to the Middle Ages when Czech lands began producing beer in large quantities. It has become an essential part of Czech culture and lifestyle, embodying centuries-old brewing traditions."
   },
   {
     "id": "d88a6e23-fcb8-497d-a8c8-c4f824f05e10",
@@ -752,7 +843,8 @@
     "abv": "4.2",
     "ibu": "11",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Světlé výčepní pivo (Pale Draft Beer) is a traditional Czech bottom-fermented lager known for its low alcohol content, usually around 3.5–4.0% ABV. It is characterized by a mild, refreshing taste with a well-balanced mix of malt sweetness and hop bitterness. The term'výčepní' refers to beer that is typically served on draft directly from a tank or keg at pubs. History: Světlé výčepní pivo has a long history dating back to the Middle Ages when Czech lands began producing beer in large quantities. It has become an essential part of Czech culture and lifestyle, embodying centuries-old brewing traditions."
   },
   {
     "id": "a1865128-6e1d-4e0e-9968-2e3cb929806e",
@@ -760,7 +852,8 @@
     "abv": "5.0",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Světlý ležák, or pale lager, is a cornerstone of Czech brewing tradition, renowned for its crisp, refreshing taste and balanced bitterness. This lager is characterized by its clear golden hue, fine carbonation, and a harmonious blend of malt sweetness and hop bitterness."
   },
   {
     "id": "30c6772d-8cc1-43dd-8bb4-7aab34f20679",
@@ -768,7 +861,8 @@
     "abv": "3.5",
     "ibu": "10",
     "type": "dark lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Tmavé výčepní pivo, commonly known as 'dark draft beer,' is a traditional Czech lager distinguished by its deep amber to dark brown hue and rich, malty flavor profile. This style of beer is an integral part of Czech brewing heritage, offering a delightful alternative to lighter lagers."
   },
   {
     "id": "7f94d342-7df1-471d-af21-7ce2f90b6e5b",
@@ -776,7 +870,9 @@
     "abv": "4.8",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Rebel Originál Premium is a Czech pale lager with an alcohol content of 4.8% ABV. This beer is characterized by its distinctive bitter taste and strong hoppy aroma, achieved through traditional brewing methods. It is fermented in open fermenting rooms and matures at low temperatures in lagering cellars.",
+    "img": "https://araratbeverages.com/wp-content/uploads/2021/04/Rebel-Beer-15150-2.jpg"
   },
   {
     "id": "9bd4c16a-4414-455f-be69-0b8b6cbf3e1e",
@@ -784,14 +880,19 @@
     "abv": "4.7",
     "ibu": "12",
     "type": "dark lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Rebel Černý is a Czech dark lager with an alcohol content of 4.7% ABV. This beer is characterized by its deep ruby color and a sweet butterscotch flavor, complemented by mild bitterness. It is brewed using traditional methods, fermenting in open tanks and maturing in low-temperature lager cellars. Rebel Černý has been recognized in various tasting competitions.",
+    "img": "https://sudpiva.cz/wp-content/uploads/2022/05/231_rebel-cerny-30l-sud-piva-600x900.png"
   },
   {
     "id": "e83bbbcf-3ed0-4149-b055-8eaf5014e15f",
     "name": "Czech Rebel Beer",
     "abv": "4.4",
     "ibu": "pale_lager",
-    "type": "Czech Republic"
+    "type": "",
+    "country":"Czech Republic",
+    "description": "Rebel Haškův Tradiční is a Czech pale lager with an alcohol content of 4.1% ABV. This beer is characterized by its pronounced bitterness, balanced by a fresh hop aroma and a fuller taste. It undergoes maturation at low temperatures in lager cellars, contributing to its crisp and refreshing profile.",
+    "img": "https://www.jaso.cz/pic_zbozi_det/_thb_10676.jpg"
   },
   {
     "id": "6764023d-e943-42dc-a589-1f2b496caeee",
@@ -807,7 +908,8 @@
     "abv": "4.2",
     "ibu": "10",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Holba Classic is a Czech pilsner-style lager with an alcohol content of 4.2% ABV. Brewed by Pivovar Holba in Hanušovice, Czech Republic, this beer is known for its light, golden honey color and a slightly bitter, hoppy taste. It is described as a light beer with a deliciously bitter, slightly hoppy taste and perfect relish."
   },
   {
     "id": "4ef63589-3874-48cd-87ce-71543c9e8018",
@@ -815,7 +917,9 @@
     "abv": "4.7",
     "ibu": "11",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Holba Šerák is a distinguished Czech pale lager with an alcohol content of 4.7% ABV. This beer is renowned for its honey-gold color and a delightful, slightly bitter, hoppy taste. It offers a clean, refreshing, and harmonious flavor profile, making it the flagship of the Holba brewery.",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.10tqyCVFVteDKmQsJnR9OwAAAA&pid=Api"
   },
   {
     "id": "159b5299-f77f-4360-b108-c81fa7820b3c",
@@ -823,7 +927,9 @@
     "abv": "5.2",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Holba Premium is a Czech pale lager with an alcohol content of 5.2% ABV. This beer is characterized by its deep golden color and a clean, persistent head. The aroma features typical Czech notes, including hints of butter, hops, and caramel. The taste is malt-driven with earthy hops present, offering a balanced bitterness and a medium, dry finish.",
+    "img": "https://api.holba.cz/storage/94/conversions/holba-premium-large.png"
   },
   {
     "id": "8d1afb37-6c2e-448b-b8cf-a991165c8400",
@@ -831,7 +937,9 @@
     "abv": "4.8",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Černá Hora Světlý Ležák, also known as Černohorský Ležák, is a traditional Czech pale lager with an alcohol content of 4.8% ABV. Brewed by Pivovar Černá Hora, this beer is renowned for its full 'bread-like' flavor and higher hop bitterness, which gradually fades after sipping. Its color ranges from golden-yellow to a hint of golden-brown.",
+    "img": "https://www.vinopivoteka.cz/userdata/products/7/p00333.jpg"
   },
   {
     "id": "e989171f-5bf2-4df2-bf80-47839dbec7d8",
@@ -839,15 +947,17 @@
     "abv": "4.1",
     "ibu": "10",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Zlatopramen Světlé Výčepní is a Czech pale lager with an alcohol content of 3.8% ABV. This unpasteurized beer is characterized by its clear golden-yellow color and a one-finger-high white head. It offers a balanced taste, combining malty sweetness with a slight hop bitterness, resulting in a crisp and refreshing profile. The beer's medium body and moderate carbonation make it easy to drink and quite thirst-quenching. "
   },
   {
     "id": "91c14ef5-54c6-42f5-842e-48fa2b33c1f4",
     "name": "Zlatopramen 11°",
-    "abv": "4.7",
+    "abv": "4.9",
     "ibu": "11",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Zlatopramen 11° is a Czech pale lager with an alcohol content of 4.9% ABV. This beer is characterized by its clear golden-yellow color and a one-finger-high white head. It offers a balanced taste, combining malty sweetness with a slight hop bitterness, resulting in a crisp and refreshing profile. The beer's medium body and moderate carbonation make it easy to drink and quite thirst-quenching."
   },
   {
     "id": "1915bf3f-2d66-4b98-9063-9b6c758c5a93",
@@ -855,21 +965,26 @@
     "abv": "5.0",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Bernard Sváteční Ležák is a distinctive Czech pale lager with an alcohol content of 5% ABV. This unpasteurized beer undergoes secondary fermentation in the bottle, resulting in a mild yeasty taste and aroma. It features a balanced bitterness harmonized with a subtle caramel aroma, delivering a smooth, clean finish."
   },
   {
     "id": "8d288f86-f78c-498a-9ca7-1e4f06333bff",
     "name": "Bernard Jantarový Ležák [Amber Lager]",
     "abv": "4.7",
     "ibu": "NULLamber_lager",
-    "type": "Czech Republic"
+    "type": "",
+    "country":"Czech Republic",
+    "description": "Bernard Jantarový Ležák is a Czech amber lager with an alcohol content of 5% ABV. This unpasteurized, unfiltered beer is crafted using four types of malt, imparting a rich, full-bodied flavor profile. It features a harmonious balance of bitterness and a fine caramel aroma, delivering a smooth, clean finish."
   },
   {
     "id": "3d789ae9-791f-4815-9e3a-082c1ec05df4",
     "name": "Bernard Černý Ležák [Dark Lager]",
     "abv": "5.1",
     "ibu": "NULLdark_lager",
-    "type": "Czech Republic"
+    "type": "",
+    "country": "Czech Republic",
+    "description": "Bernard Černý Ležák is a Czech dark lager with an alcohol content of 5% ABV. This unpasteurized beer is crafted using four types of malts, resulting in a rich, full-bodied flavor profile. The taste is characterized by roasted malt notes, complemented by subtle hints of caramel, chocolate, and a mild bitterness. The finish is smooth and dry, making it a delightful choice for those who appreciate a well-balanced dark lager. "
   },
   {
     "id": "cdb0f875-8db5-45ce-b598-8dfc7ea2824e",
@@ -877,7 +992,8 @@
     "abv": "3.8",
     "ibu": "10",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Bernard Světlý Výčepní is a Czech pale lager from Rodinný pivovar Bernard, characterized by its classic Pilsner style. It has an alcohol content of 3.8% ABV, making it a lighter, easy-drinking beer with a crisp, refreshing taste. The beer features a balanced malt sweetness and a mild hop bitterness, delivering a smooth, clean finish. It's an ideal choice for quenching thirst on a warm day or as a session beer. This beer is typically presented in a bright golden color with a nice, creamy white head​"
   },
   {
     "id": "ea5dd4f9-06aa-4d6f-95d4-49e67de922e7",
@@ -885,7 +1001,8 @@
     "abv": "4.5",
     "ibu": "11",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Bernard Světlý Ležák is a Czech pale lager with an alcohol content of 4.7% ABV. It is a traditional Czech Pilsner style beer brewed by Rodinný pivovar Bernard. The beer is known for its clean, golden appearance and balanced malt sweetness with a slight bitterness, offering a pleasant, herbal hop finish"
   },
   {
     "id": "f22cc2d1-5081-4a51-ab28-ef1d06764e20",
@@ -893,7 +1010,8 @@
     "abv": "4.7",
     "ibu": "12",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Bernard Světlý Ležák is a Czech pale lager with an alcohol content of 4.9% ABV. It is a traditional Czech Pilsner style beer brewed by Rodinný pivovar Bernard. The beer is known for its clean, golden appearance and balanced malt sweetness with a slight bitterness, offering a pleasant, herbal hop finish"
   },
   {
     "id": "f74f5247-6f0c-471d-b4bd-f0a9e3271794",
@@ -901,7 +1019,8 @@
     "abv": "5.8",
     "ibu": "14",
     "type": "pale lager",
-    "country": "Czech Republic"
+    "country": "Czech Republic",
+    "description": "Bernard Speciální Ležák 14% OX is a strong, Czech-style pale lager characterized by its robust flavor and slightly sweet taste profile. It features a balanced combination of maltiness with a hint of bitterness from the hops, offering a smooth drinking experience with a clean finish. The beer has an alcohol content of 5.8%, making it one of the stronger options in the Bernard portfolio​"
   },
   {
     "id": "2a31397c-fb50-4235-9ca4-2679fe3558a8",
@@ -909,15 +1028,17 @@
     "abv": "4.5",
     "ibu": "11",
     "type": "pale lager",
-    "country": ""
+    "country": "Czech Republic",
+    "description": "Chodovar Zlatý Ležák is a classic Czech lager with a bright golden color and a slightly malty flavor profile. It is a bottom-fermented lager that embodies the typical characteristics of Czech lagers from the West Bohemia region. The beer features a mild hop aroma with a slight bitterness at the finish, making it a versatile choice that pairs well with traditional Czech dishes such as roast meats and pasta"
   },
   {
     "id": "96de7c25-6277-45bf-9fe6-2b14d265dfff",
     "name": "Chodovar Pašerák Světlé",
-    "abv": "4",
+    "abv": "5.1",
     "ibu": "NULL",
     "type": "",
-    "country": ""
+    "country": "Czech Republic",
+    "description": "Chodovar Pašerák Světlé is a Czech lager-style beer brewed by Chodovar, a family-owned brewery in Chodová Planá. This beer is classified as a bottom-fermented light lager, and it is known for its refreshing, balanced taste with a mild bitterness and a slight sweetness. The beer undergoes a dry-hopping process during maturation, which contributes to its aromatic hop character. It is an ideal choice for quenching thirst on warm days or accompanying light meals. With an alcohol content of about 5.1%, it maintains a smooth drinkability."
   },
   {
     "id": "23df290e-6daa-4527-8ecc-75f61acd9866",
@@ -925,7 +1046,8 @@
     "abv": "5",
     "ibu": "12",
     "type": "pale lager",
-    "country": ""
+    "country": "Czech Republic",
+    "description": "Chodovar Prezident Premium is a classic Czech pale lager brewed by the Chodovar Brewery. This beer is a representative of traditional Czech lager style, characterized by a bright golden color, pleasant hop aroma, and a smooth malt taste with a subtle bitterness. It is brewed with water from an artesian well, Czech hops, and locally sourced barley malt. This lager is known for its well-balanced flavor profile that pairs well with traditional Czech dishes such as roast meat and pasta​"
   },
   {
     "id": "5099c927-438f-4c79-8f24-770cface04e8",
@@ -933,7 +1055,8 @@
     "abv": "5.1",
     "ibu": "13",
     "type": "pale lager",
-    "country": ""
+    "country": "Czech Republic",
+    "description": "Chodovar Zámecký Ležák Special is a Czech-style Pilsner brewed by Chodovar in the Chodová Planá region. It is a bright golden lager characterized by a distinct hop bouquet and a full malt flavor with a gentle bitterness. The beer undergoes a fermentation period of 2 to 3 months in lager casks within Chodovar's unique rock cellar, enhancing its quality and providing it with a smooth, well-balanced taste."
   },
   {
     "id": "9a088442-0a2d-449c-8f94-8cba6fb43055",
@@ -941,15 +1064,17 @@
     "abv": "4.2",
     "ibu": "NULL",
     "type": "dark lager",
-    "country": ""
+    "country": "Czech Republic",
+    "description": "Chodovar Černá Desítka is a Czech dark lager, known for its rich, dark color and robust flavor profile typical of the Dunkel style. It features prominent notes of toffee, coffee, roasted malts, dark chocolate, and a subtle bitterness that balances the sweetness from the malt. This beer has an alcohol content of 4.2% and is brewed using traditional Czech ingredients such as malt from Bohemian and Bavarian barley, Czech hops, and water from Chodovar’s own artesian well"
   },
   {
     "id": "aa03ca17-b5b3-44b8-8ab8-a75ae1aaacdf",
-    "name": "Guinness|Guinness Draught",
+    "name": "Guinness Draught",
     "abv": "4.2",
     "ibu": "NULL",
     "type": "irish dry stout|dry stout|stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Guinness Draught is known for its distinctive and balanced flavor profile. It features a malty sweetness with subtle hoppy bitterness, complemented by notes of coffee and chocolate due to roasted barley. The beer has a creamy, velvety mouthfeel, thanks to the use of nitrogen during fermentation which creates smaller, smoother bubbles compared to traditional carbon dioxide carbonation. Its lighter body and relatively low alcohol content (4.2% ABV) make it a popular choice for those seeking a sessionable beer."
   },
   {
     "id": "89aeacb7-4fd4-4f17-b4c3-f8a1c7ef8354",
@@ -957,7 +1082,8 @@
     "abv": "7.5",
     "ibu": "NULL",
     "type": "stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Guinness Foreign Extra Stout is a robust and bold stout with a rich history and distinctive flavor profile. Originally brewed to withstand long sea voyages to Africa, Asia, and the Americas, it features a higher hop rate and stronger alcohol content compared to the standard Guinness Draught. This beer pours a deep, opaque mahogany color with a hint of red-orange and is topped with a thick, pock-marked foam. Its aroma combines roasted malt with notes of dark chocolate, caramel, and dried fruits, complemented by smoky and peppery hop bitterness​"
   },
   {
     "id": "ab845ee5-2c2f-4606-8817-a3efeb2eb03a",
@@ -965,7 +1091,8 @@
     "abv": "4.3",
     "ibu": "NULL",
     "type": "irish red ale|red ale|ale",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Kilkenny is an Irish Cream Ale known for its smooth, rich, and creamy profile. It features a deep red color with a thick, creamy head that is characteristic of this style. The flavor profile of Kilkenny combines sweet malt with light toffee and mild bitterness, creating a balanced and easy-drinking beer. It has a smooth, almost milky texture that makes it particularly enjoyable on draught. This beer is part of the Smithwick's family, and while it shares some similarities with other Irish ales, it stands out due to its creamy mouthfeel and deep amber hue"
   },
   {
     "id": "55616d72-1373-4647-96c7-6954264a550a",
@@ -973,7 +1100,8 @@
     "abv": "4.5",
     "ibu": "NULL",
     "type": "irish red ale|red ale|ale",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Smithwick's is an Irish Red Ale brewed by Guinness Ltd. It features a rich ruby color with a creamy head. The aroma is malty with notes of toasted bread and toffee, complemented by light floral hops and a hint of orange. The flavor profile is balanced with a mild bitterness from the hops, a soft caramel sweetness, and a roasted dry finish"
   },
   {
     "id": "4f0754d5-c60b-4f8a-9844-d57d9eb80685",
@@ -981,7 +1109,8 @@
     "abv": "5.2",
     "ibu": "NULL",
     "type": "irish red ale|red ale|ale",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Murphy's Irish Red is an Irish Red Ale with a smooth character and a vibrant red color, characterized by a balanced profile of malt sweetness and a subtle hop bitterness. It has an ABV of around 5.0% and is noted for its caramel malt flavors with hints of toffee and roasted nuts. The beer is brewed with a blend of malt varieties including Munich, 2-row, and roasted barley, contributing to its deep red hue and a malty backbone"
   },
   {
     "id": "75fadb83-fe62-4280-af0e-225dac5133a8",
@@ -989,7 +1118,8 @@
     "abv": "4.3",
     "ibu": "NULL",
     "type": "irish dry stout|dry stout|stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Murphy's Irish Stout is a classic Irish dry stout brewed by Heineken Ireland in Cork, Ireland, since 1856. It is characterized by its dark, jet-black color and medium body, with a creamy texture and a smooth finish. The flavor profile is balanced, featuring subtle toffee and coffee undertones with minimal bitterness, making it a pleasant and sessionable option. The beer maintains a low carbonation level, which contributes to its easy-drinking nature"
   },
   {
     "id": "e01bdbb9-bd6d-4300-b653-8d422cfdd2fb",
@@ -997,7 +1127,8 @@
     "abv": "4.3",
     "ibu": "NULL",
     "type": "red ale",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "O'Hara's Irish Red is a traditional Irish Red Ale brewed by Carlow Brewing Company in Bagenalstown, County Carlow, Ireland. It has an ABV of 4.3% and a balanced bitterness with caramel tones, making it smoother and more complex than mainstream counterparts. The beer presents a copper-red color with a creamy, off-white head and exhibits roasted barley flavors mixed with subtle fruity notes like dark berries. It is lightly hopped with a slight bitterness that provides a pleasant finish"
   },
   {
     "id": "d48062f6-727e-485b-b870-8820d05bff1b",
@@ -1005,7 +1136,8 @@
     "abv": "4.3",
     "ibu": "NULL",
     "type": "stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "O'Hara's Irish Stout is a classic Irish dry stout brewed by Carlow Brewing Company in Ireland. It has a moderate alcohol content of 4.3% ABV, making it a sessionable beer with a relatively light body for the style. This stout offers a robust roasted malt character, complemented by hints of coffee and dark chocolate. The aroma is slightly sweet with notes of roasted coffee beans and cream coffee, and on the palate, it delivers toasty flavors with a bittersweet finish​"
   },
   {
     "id": "8653bfdf-2bb1-4798-981b-d4b0968b293b",
@@ -1013,7 +1145,8 @@
     "abv": "4.4",
     "ibu": "NULL",
     "type": "ale",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Galway Hooker Irish Pale Ale is a classic American Pale Ale style beer brewed by Galway Hooker Brewery in Oranmore, County Galway, Ireland. It has an alcohol by volume (ABV) of 4.3% and an International Bitterness Unit (IBU) of 35, giving it a balanced bitterness with a satisfying citrus aftertaste. The beer is crafted using a combination of pearl and crystal malts, along with Saaz and Cascade hops, which contribute to its deep golden color and a slightly caramel note akin to an Irish red beer​"
   },
   {
     "id": "6a188238-cea6-44dc-a717-c30c5b78337a",
@@ -1021,7 +1154,8 @@
     "abv": "4.8",
     "ibu": "NULL",
     "type": "stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Porterhouse Oyster Stout is a unique variation of the traditional stout, crafted by the Porterhouse Brewing Company in Dublin, Ireland. This Irish Dry Stout includes oysters in the brewing process, which imparts a subtle briny character and enhances the beer's smooth, creamy mouthfeel. The addition of oysters is designed to complement the stout's rich malt flavors, adding a depth of complexity and a slight mineral note to the profile. This beer typically showcases chocolate, roasted malt, and coffee flavors, combined with a hint of saltiness from the oysters. The result is a balanced, distinctive stout that pairs well with seafood and hearty dishes​"
   },
   {
     "id": "0ed7707a-e329-454b-b6db-d9a5a396fcfb",
@@ -1029,7 +1163,8 @@
     "abv": "5",
     "ibu": "NULL",
     "type": "stout",
-    "country": "Ireland"
+    "country": "Ireland",
+    "description": "Wrasslers XXXX Stout is a robust Irish Dry Stout crafted by Porterhouse Brewing Company in Dublin, Ireland. With an alcohol content of 5%, it stands out for its full-bodied profile, balancing roasted grain flavors, a distinct malty sweetness, and a pronounced hoppy bitterness. Its deep, dark appearance is complemented by a complex aroma created from kettle hops, flaked barley, and roasted malts, delivering a smooth and satisfying drinking experience. This stout is described as reminiscent of the traditional, more robust Guinness recipes of the past, offering a richer and rounder body. It pays homage to classic Irish brewing traditions and has historical significance as it was reportedly a favorite of Michael Collins, a prominent Irish revolutionary leader"
   },
   {
     "id": "9f15bd50-8e4e-4621-91e2-5d4e2c85622e",
@@ -1037,7 +1172,8 @@
     "abv": "5.5",
     "ibu": "12.5",
     "type": "weisse",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Paulaner Hefe-Weißbier Naturtrüb is a classic unfiltered wheat beer (Hefeweizen) brewed by Paulaner Brauerei in Munich, Germany. With an alcohol content of 5.5% ABV, this beer is known for its slightly cloudy appearance due to suspended yeast. Its flavor profile combines a natural sweetness with notes of banana, clove, and subtle citrus, complemented by a bready malt character. The beer has a refreshing, crisp mouthfeel with lively carbonation and a smooth finish, making it a top choice among wheat beers worldwide. Often referred to as the 'benchmark' of its style, it is crafted using a traditional yeast suspension technique to ensure a consistently high-quality experience. This beer is widely enjoyed and ranks as one of the most popular wheat beers globally"
   },
   {
     "id": "2d25ae1f-0416-4aca-bd9e-e1167c3f784d",
@@ -1045,7 +1181,8 @@
     "abv": "5.0",
     "ibu": "11.3",
     "type": "pils",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Vormann Pils, brewed by Vormann Privatbrauerei, is a traditional German Pilsner. This beer is noted for its crisp and refreshing profile, characterized by a balance of mild malt sweetness and a moderate bitterness. It has a clean and light body, typical of the Pilsner style, making it a popular choice among those who enjoy straightforward, classic lagers. The taste highlights subtle hop flavors, which contribute to its pleasant bitterness and refreshing finish​"
   },
   {
     "id": "6b446dff-2090-4504-a874-575def60c727",
@@ -1053,7 +1190,8 @@
     "abv": "5.0",
     "ibu": "11.6",
     "type": "alt",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Alt aus Dahl is a dark, top-fermented Altbier brewed by Vormann Privat-Brauerei. It features a 5.0% ABV with a smooth and slightly fruity character. Its flavor profile includes notes of roasted malt, caramel, and subtle fruitiness, with a gentle bitterness and a hint of acidity that balances the beer well. The aroma often carries hints of malt, dark fruits, and even a touch of cherry. The beer has a medium body, making it particularly drinkable and a standout example of its style outside Düsseldorf​"
   },
   {
     "id": "f731c257-a004-420f-a9d7-1faa99c5198e",
@@ -1061,7 +1199,8 @@
     "abv": "1.5",
     "ibu": "11.5",
     "type": "malt",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Vormann Malz is a non-alcoholic malt beverage crafted by the Vormann Brauerei, a German brewery known for its traditional brewing heritage dating back to 1877. This drink is made with high-quality barley malt, hops, and water, offering a rich and smooth malt profile. Its taste features a balance of caramel sweetness with light roasted notes, creating a satisfying and refreshing flavor. While it contains 1.5% alcohol, it is often considered a lighter alternative to typical malt drinks or sugary sodas."
   },
   {
     "id": "d1422515-7f48-4130-a43f-fa1de607dedb",
@@ -1069,7 +1208,8 @@
     "abv": "5.0",
     "ibu": "11.7",
     "type": "weisse dunkel",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "The Vormann Sauerländer Weizenbier is a traditional wheat beer brewed by Vormann Brauerei in Hagen-Dahl, North Rhine-Westphalia. This beer is top-fermented, naturally cloudy, and has a 5.0% ABV with an original gravity of 11.7° Plato. It combines light wheat malt and barley malt, resulting in a refreshing, flavorful profile. Key notes include a mild sweetness, a malty aftertaste, and a subtle hint of banana aroma, characteristic of traditional Weissbiers. The fine hop balance comes exclusively from natural hop cones, and the beer undergoes bottle conditioning to achieve its distinct carbonation and taste"
   },
   {
     "id": "48fc3511-ff57-477a-8743-9e604892fe47",
@@ -1077,7 +1217,8 @@
     "abv": "8.0",
     "ibu": "19.3",
     "type": "doppelbock",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "The Vormann Doppelbock is a strong, bottom-fermented beer with 8% ABV and a specific gravity of 19.3° Plato. It is characterized by a malty, robust flavor profile, often described as sweet and slightly herbal, with a gentle bitterness in the finish. The beer has a distinctive amber to chestnut color and is traditionally brewed with Dolden aroma hops. This Doppelbock has a long six-month aging process to enhance its quality and flavor. It was first developed in the 1950s by Eduard Vormann and is brewed primarily from first wort, which adds to its unique character. It is available seasonally: as a Herbstbock (autumn bock) from October and as a Maibock (May bock) from April​"
   },
   {
     "id": "46b86a2d-655e-41a8-9833-616230ca0f53",
@@ -1085,7 +1226,8 @@
     "abv": "5.2",
     "ibu": "12.2",
     "type": "export",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Vormann Vorderbier is a dark lager-style Export beer brewed by Vormann Brauerei in Hagen-Dahl, Germany. A standout feature of this beer is the exclusive use of 'Vorderwürze' (first wort), the initial, most concentrated extract from the mashing process, without dilution from additional sparging. This method gives the beer a richer and more intense flavor profile. It is crafted using Munich malt and Tettnanger aroma hops, resulting in a malty and caramel-forward taste with subtle bitterness."
   },
   {
     "id": "f0711f01-8447-4474-a314-464f40345d75",
@@ -1093,7 +1235,8 @@
     "abv": "5.0",
     "ibu": "11.3",
     "type": "zwickl",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "Typically bottom-fermented, slim, yet hoppy with a pronounced hop flower, which is caused by the secret recipe of various “highly fine aromatic varieties”."
   },
   {
     "id": "8e29ed4e-aeed-4094-9689-03b4d415f2d9",
@@ -1101,7 +1244,8 @@
     "abv": "4.9",
     "ibu": "NULL",
     "type": "pilsner",
-    "country": "Germany"
+    "country": "Germany",
+    "description": "This clear blonde coloured pilsener has sweet, grassy and herby aromas, with a touch of citrus while the taste is a wonderful blend of herby, dry hop, and more citrus. The finish is long, crisp and clean with a slight resinous note."
   },
   {
     "id": "35851c46-3fc0-4615-a043-2e8dec52bd30",
@@ -1109,15 +1253,17 @@
     "abv": "5.0",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Tyskie Gronie is one of the most frequently chosen beers by Poles. Very well known also abroad. Its popularity is due to its golden color, mild, hoppy aroma, perfect foam and classic, well-balanced taste - between sweetness and bitterness. It is recommended to drink very chilled."
   },
   {
     "id": "889d0a97-3fe1-46ca-a029-2be77739a29c",
-    "name": "Żywiec",
-    "abv": "5.6",
+    "name": "Żywiec IPA",
+    "abv": "5.0",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Żywiec Session IPA beer is characterised by a pleasant hoppy bitterness and distinct notes of exotic fruits and citrus. It is cold hopped with a unique composition of American hops. Optimum serving temperature: 9 – 12 degrees celcius. The brand’s icon, the so-called dancing couple, is one of the most recognisable and at the same time the most valuable trademarks on the Polish market; it is also the best known Polish beer abroad. The dancing couple refers to the pre-war tradition of placing folklore elements on Polish trademarks and in advertisements for the Archduke Brewery in Żywiec. Żywiec has been a patron of culture for years. It sponsors a number of artistic endeavours, including one of the most popular and recognised music events in Poland – the Męskie Granie concert tour."
   },
   {
     "id": "349b028e-f4e8-4664-8dd9-f96ef8415751",
@@ -1125,7 +1271,8 @@
     "abv": "5.6",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Lager type beer with a distinct, strong hop flavor. It is characterized by thick and high foam. This beer has a uniquely subtle taste and smell, and is always made from the highest quality products and mountain spring water. Okocim O.K. is recognized both in Poland and the United States as Stawski's Beer due to the label on the neck and the neck of the bottle itself."
   },
   {
     "id": "cf557e54-3d3b-400f-88c6-b6c2ef23560a",
@@ -1133,15 +1280,17 @@
     "abv": "5.2",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Perła Chmielowa beer is distinguished by a strong and pleasant smell of aromatic hops. Its characteristic bitter taste, which comes from the use of only natural ingredients, makes it appreciated even by the most demanding beer lovers."
   },
   {
     "id": "2da6fd20-6871-4528-8749-8afe45f4aa7a",
-    "name": "Łomża",
+    "name": "Łomża Export",
     "abv": "5.2",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Łomża Export is a light beer with an alcohol content of 5.7% by volume. The name Export is a reference to the presence of the Łomża brand on foreign markets, especially in the United States, where it has been exported since 1997. The packaging of Łomża Export attracts attention with its elegance and gives the beer a very aspirational character, meeting the requirements of the consumer groups to which the product is addressed."
   },
   {
     "id": "e3d28c45-e48d-41ea-9fd3-e8947121ed97",
@@ -1149,7 +1298,8 @@
     "abv": "5.0",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Lech Premium is a pale lager that provides a perfect harmony of taste and appropriate carbonation, and therefore excellent refreshment – especially when properly cooled. Perfect for every occasion, always when you need refreshment."
   },
   {
     "id": "94c79d11-9dd7-4e04-9a4e-62ec916355a8",
@@ -1157,7 +1307,8 @@
     "abv": "7.5",
     "ibu": "NULL",
     "type": "strong lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Warka Strong beer is a lager with a higher alcohol content (6.3%), which classifies it in the strong beer segment. It is characterised by an original malt and hop flavour and a beautiful deep amber colour."
   },
   {
     "id": "bc2e6f37-71dc-4df1-82a6-5363760ec2ee",
@@ -1165,7 +1316,8 @@
     "abv": "9.5",
     "ibu": "NULL",
     "type": "porter",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Żywiec Porter beer is a very strong and full-bodied beer with an aftertaste of roasted malt with coffee and caramel notes. Dark Beer brewed in Żywiec since 1881. It owes its intense color and distinct flavor to four types of malt. The Porter beer recipe is the work of the masters of the Żywiec Brewing School, who have been working in the Archduke's breweries in Żywiec and Cieszyn for generations."
   },
   {
     "id": "f84dc18e-b222-4646-b97a-88095f27b79c",
@@ -1173,7 +1325,8 @@
     "abv": "5.6",
     "ibu": "NULL",
     "type": "wheat beer",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Książęce Złote Pszeniczne 4.9% is a Polish wheat beer, available in a 500 ml bottle. It is characterized by a refreshing, slightly sour taste with notes of citrus, bananas and a delicate aroma of cloves. This beer goes perfectly with light dishes, salads and fish, and also works as a refreshing drink for summer days. It tastes best chilled to a temperature of 6-8°C, offering a pleasant taste experience."
   },
   {
     "id": "9b21c068-195d-49d1-99eb-2b11c1ccb61b",
@@ -1181,7 +1334,8 @@
     "abv": "9.5",
     "ibu": "NULL",
     "type": "Baltic Porter",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Żywiec Porter beer is a very strong and full-bodied beer with an aftertaste of roasted malt with coffee and caramel notes. Dark Beer brewed in Żywiec since 1881. It owes its intense color and distinct flavor to four types of malt. The Porter beer recipe is the work of the masters of the Żywiec Brewing School, who have been working in the Archduke's breweries in Żywiec and Cieszyn for generations."
   },
   {
     "id": "ef1ab172-1e6c-4044-8f8f-daa5617eccd6",
@@ -1189,7 +1343,8 @@
     "abv": "5.5",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "A refreshing beer that is the quintessence of traditional production methods and the latest solutions used in brewing. It has a characteristic, strong taste, golden color and a subtle smell of aromatic hops. These advantages mean that Perła Export is mostly chosen by young consumers."
   },
   {
     "id": "76b80eee-6796-4cbd-a289-f558ca1a3b92",
@@ -1197,7 +1352,8 @@
     "abv": "5.2",
     "ibu": "NULL",
     "type": "dark lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "One beer, so many flavors! Piwo Książęce Dark Porter is a drink with a rich profile. Four types of malt are used in its brewing: Pilsner, caramel, Munich and roasted, and two varieties of hops. That's why the taste of this beer includes caramel and chocolate, as well as coffee and tart fruit."
   },
   {
     "id": "56ff0964-eeff-49eb-ae2c-5e9752ba345b",
@@ -1205,7 +1361,8 @@
     "abv": "5.5",
     "ibu": "NULL",
     "type": "ale",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Amber beer showcases a medium-high to high malt character with medium to low caramel character derived from the use of roasted crystal malts."
   },
   {
     "id": "9ab31ca3-0340-4bf8-9c0d-8e6a6aa2a9fc",
@@ -1213,15 +1370,8 @@
     "abv": "7.5",
     "ibu": "NULL",
     "type": "strong lager",
-    "country": "Poland"
-  },
-  {
-    "id": "c99d01d8-89ec-4d78-b68c-1923808775fa",
-    "name": "Pils",
-    "abv": "5.2",
-    "ibu": "NULL",
-    "type": "pilsner",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Łomża Mocne is a product with a well-established tradition. Its deep hop flavor makes it highly appreciated by experienced connoisseurs of Łomża beers."
   },
   {
     "id": "f651e05d-4973-4ce9-b27e-5af95f2d79ab",
@@ -1229,7 +1379,8 @@
     "abv": "5.0",
     "ibu": "NULL",
     "type": "pale lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Wojak is a proper lager dedicated to young, spirited guys who care about loyalty and brotherhood. Delightfully beery taste, excellent drinkability and right alcohol content (5%). Perfect for get-togethers with friends. In a nutshell, Wojak is a 5% lager for the young and spirited spending time with their mates."
   },
   {
     "id": "ec3f4980-d5db-4598-9dd8-f095553311a6",
@@ -1237,7 +1388,8 @@
     "abv": "5.2",
     "ibu": "NULL",
     "type": "lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Warka Classic Light beer is based on a classic and original recipe. Its composition is based on aromatic Magnum hops. The drink contains 5.5% vol. alcohol. It is mild in taste and slightly effervescent. This is the perfect position for social gatherings during barbecues or dance evenings. Every gourmet will love this classic taste of beer that has been produced for several hundred years! Warka Classic Light beer is a pasteurized drink and contains barley malt and barley, which is also classically brewed and aged. Once delivered to princes, now delivered to your home!"
   },
   {
     "id": "cb1a7d44-3e8e-4e86-9566-648658e0a648",
@@ -1245,7 +1397,8 @@
     "abv": "5.8",
     "ibu": "NULL",
     "type": "lager",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "Light beer in a convenient can is an alcoholic drink that will not only quench your thirst, but will also be an interesting addition to a barbecue or match. This is a noble lager beer with a truly masculine character. The drink is distinguished by its beautiful color, which looks beautiful in a tall glass, encouraging consumption thanks to the combination of golden liquid and impressive foam. Harnaś is a beer that pleases with its unique taste and aroma, bringing refreshment, cheerfulness and great mood."
   },
   {
     "id": "0935c13d-d5a3-4866-8f88-b13f19848503",
@@ -1253,7 +1406,8 @@
     "abv": "5.7",
     "ibu": "12.5",
     "type": "pale",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "light amber color, full clarity, tempting foam, intense bitterness and a unique hop note in the aroma bouquet, all this from the ecologically clean area of ​​Masovia and Kujawy, from the best natural ingredients (own malt, Oligocene water)."
   },
   {
     "id": "1fe9b7bd-b1e7-4754-a90a-99a225254cc5",
@@ -1261,6 +1415,7 @@
     "abv": "6.6",
     "ibu": "14.6",
     "type": "pale",
-    "country": "Poland"
+    "country": "Poland",
+    "description": "The dark amber color, intense bitterness and abundant thick foam along with the high content of extract and alcohol make Kasztelan Mocne liked by those beer lovers for whom not only the taste, but also the strength of beer is important."
   }
 ]
