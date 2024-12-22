@@ -1,4 +1,4 @@
-const allowedOrigins = ['https://beers-data.netlify.app'];
+const allowedOrigins = ['https://beers-data.netlify.app', 'http://localhost:5173'];
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 export function applyCors(req: VercelRequest, res: VercelResponse) {
